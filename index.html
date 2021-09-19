@@ -30,67 +30,19 @@
             margin: 50px;
         }
 
-        section
-        {
-            margin-bottom: 50px;
-        }
-
         h1
         {
             font-weight: 300;
-        }
-
-        h2
-        {
-            font-weight: 600;
-        }
-
-        a
-        {
-            color: gray;
-            text-decoration: none;
-        }
-
-        a:hover
-        {
-            text-decoration: underline;
         }
     </style>
 </head>
 
 <body>
-    <!-- your content here... -->
     <header>
         <h1>
             Virtual Fort Snelling Data
         </h1>
     </header>
-    <main>
-        <section>
-            <a href="{{ site.baseurl | append: '/pages.xml' }}">
-                <h2>1. pages</h2>
-            </a>
-            {% for page in site.pages %}
-            <p>
-                <a href="{{ site.baseurl | append: page.url }}">
-                    {{ page.slug }}
-                </a>
-            </p>
-            {% endfor %}
-        </section>
-        <section>
-            <a href="{{ site.baseurl | append: '/historicalobjects.xml' }}">
-                <h2>2. historical objects</h2>
-            </a>
-            {% for historicalobject in site.historicalobjects %}
-            <p>
-                <a href="{{ site.baseurl | append: historicalobject.url }}">
-                    {{ historicalobject.slug }}
-                </a>
-            </p>
-            {% endfor %}
-        </section>
-    </main>
 </body>
 
 </html>
