@@ -1,0 +1,47 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+
+    <title>Upper Post</title>
+
+    <button
+        title="Building 17"
+        action-0="menu-next-page"
+        action-0-argument-0="building-17"
+    />
+
+    <button
+        title="Building 18"
+        action-0="menu-next-page"
+        action-0-argument-0="building-18"
+    />
+
+    <button
+        title="Building 101"
+        action-0="menu-next-page"
+        action-0-argument-0="building-101"
+    />
+
+    <button
+        title="Building 102"
+        action-0="menu-next-page"
+        action-0-argument-0="building-102"
+    />
+
+    <button
+        title="Building 103"
+        action-0="menu-next-page"
+        action-0-argument-0="building-103"
+    />
+
+    <button
+        title="Building 105"
+        action-0="menu-next-page"
+        action-0-argument-0="building-105"
+    />
+</page>

@@ -1,0 +1,23 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+
+    <title>Options</title>
+    
+    <button
+        title="Handedness"
+        description="Swap between left-handed or right-handed UI layouts"
+        action-0="options-toggle-dominant-hand"
+    />
+
+    <button
+        title="Debug Overlay"
+        description="Toggle the display of various properties for debugging purposes"
+        action-0="options-toggle-debug-overlay"
+    />
+</page>

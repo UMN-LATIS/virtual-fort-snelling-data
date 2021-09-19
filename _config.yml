@@ -1,0 +1,30 @@
+# Site config
+baseurl: ""
+
+# User config
+title: "Virtual Fort Snelling Data"
+author: "Aisos"
+description: "Virtual Fort Snelling Data"
+email: "aisos@umn.edu"
+
+# User collections.
+collections:
+    pages:
+        output: true
+    historicalobjects:
+        output: true
+
+# Collection defaults.
+defaults:
+-
+    scope:
+        path: "_posts"
+        type: "posts"
+-
+    scope:
+        path: "_pages"
+        type: "pages"
+-
+    scope:
+        path: "_historicalobjects"
+        type: "historicalobjects"

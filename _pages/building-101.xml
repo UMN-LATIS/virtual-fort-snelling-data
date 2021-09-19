@@ -1,0 +1,18 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Building 101</title>
+
+	<button
+		title="1888"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1888"
+	/>
+</page>

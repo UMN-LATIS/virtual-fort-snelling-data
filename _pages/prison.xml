@@ -1,0 +1,32 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Prison</title>
+
+	<button
+		title="1865"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1865"
+	/>
+
+	<button
+		title="1904"
+		description="Remodeled and covered in stucco."
+		action-0="history-set-year"
+		action-0-argument-0="1904"
+	/>
+
+	<button
+		title="1972"
+		description="Demolished."
+		action-0="history-set-year"
+		action-0-argument-0="1972"
+	/>
+</page>

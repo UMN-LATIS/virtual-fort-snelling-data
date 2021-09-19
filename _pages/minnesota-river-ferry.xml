@@ -1,0 +1,25 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Minnesota River Ferry</title>
+
+	<button
+		title="1839"
+		description="Operation begins."
+		action-0="history-set-year"
+		action-0-argument-0="1839"
+	/>
+
+	<button
+		title="1925"
+		description="Operation ceases."
+		action-0="history-set-year"
+		action-0-argument-0="1925"
+	/>
+</page>

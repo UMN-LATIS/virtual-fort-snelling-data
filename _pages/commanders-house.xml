@@ -1,0 +1,39 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Commander's House</title>
+
+	<button
+		title="1820"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1820"
+	/>
+
+	<button
+		title="1840"
+		description="Porch added."
+		action-0="history-set-year"
+		action-0-argument-0="1840"
+	/>
+
+	<button
+		title="1904"
+		description="Remodeled and resurfaced in stucco."
+		action-0="history-set-year"
+		action-0-argument-0="1904"
+	/>
+
+	<button
+		title="1966"
+		description="Restored to original appearance."
+		action-0="history-set-year"
+		action-0-argument-0="1966"
+	/>
+</page>

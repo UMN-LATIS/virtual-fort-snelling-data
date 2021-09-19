@@ -1,0 +1,9 @@
+---
+# empty front matter to force jekyll processing
+---
+
+<pages>
+    {% for page in site.pages %}
+        <page src="{{ site.baseurl | append: page.url }}" />
+    {% endfor %}
+</pages>

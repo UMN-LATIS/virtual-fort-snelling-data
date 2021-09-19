@@ -1,0 +1,41 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+    
+    <title>Draft Rendezvous</title>
+    
+    <button
+        title="Blacksmith"
+        action-0="menu-next-page"
+        action-0-argument-0="blacksmith"
+    />
+
+    <button
+        title="Cemetery"
+        action-0="menu-next-page"
+        action-0-argument-0="cemetery"
+    />
+
+    <button
+        title="Mess Halls"
+        action-0="menu-next-page"
+        action-0-argument-0="mess-halls"
+    />
+
+    <button
+        title="North Barracks"
+        action-0="menu-next-page"
+        action-0-argument-0="north-barracks"
+    />
+
+    <button
+        title="South-west Barracks"
+        action-0="menu-next-page"
+        action-0-argument-0="southwest-barracks"
+    />
+</page>

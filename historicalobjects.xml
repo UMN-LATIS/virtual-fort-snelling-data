@@ -1,0 +1,9 @@
+---
+# empty front matter to force jekyll processing
+---
+
+<historicalobjects>
+    {% for historicalobject in site.historicalobjects %}
+        <historicalobject src="{{ site.baseurl | append: historicalobject.url }}" />
+    {% endfor %}
+</historicalobjects>

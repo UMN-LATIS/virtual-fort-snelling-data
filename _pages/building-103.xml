@@ -1,0 +1,37 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Building 103</title>
+
+	<button
+		title="1888"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1888"
+	/>
+
+	<title>MISLS</title>
+
+	<body>
+		During World War II, the Military Intelligence Service Langauge School (MISLS) trained soldiers in the Japanese language to aid the war effort.
+		Since then, many of buildings (including building 103) have fallen into disrepair and are no longer open to the public.
+	</body>
+
+	<body>
+		To help shine a light on this forgotten history of the fort, we created a virtual museum from 3D scans of the building interior, as well as words
+		and images from the soldiers who studied there. If you are interested in learning more about their lives and work, please consider checking out
+		our companion app "Virtual MISLS".
+	</body>
+
+	<button
+		title="Virtual MISLS"
+		action-0="application-open-url"
+		action-0-argument-0="https://historyxr.umn.edu"
+	/>
+</page>

@@ -1,0 +1,18 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Highway 5 Bridge</title>
+
+	<button
+		title="1961"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1961"
+	/>
+</page>

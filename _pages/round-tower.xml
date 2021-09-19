@@ -1,0 +1,130 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+    
+    <title>The Round Tower</title>
+
+    <button
+        title="1820"
+        description="Construction completed."
+        action-0="history-set-year"
+        action-0-argument-0="1820"
+    />
+
+	<button
+        title="1861"
+        description="Tin roof added."
+        action-0="history-set-year"
+        action-0-argument-0="1861"
+    />
+
+	<button
+        title="1869"
+        description="Remodeled and merlons added."
+        action-0="history-set-year"
+        action-0-argument-0="1869"
+    />
+
+	<button
+        title="1966"
+        description="Restored to original appearance."
+        action-0="history-set-year"
+        action-0-argument-0="1966"
+    />
+
+    <body>
+        The Round Tower has been a symbol of Fort Snelling since its construction in 1820. Though the U.S. Army originally
+        built it as a defensive point for the fort, the tower has served many different functions over its long history.
+    </body>
+    <body>
+        The Round Tower was built during the initial construction of Fort St. Anthony (later renamed Fort Snelling). It featured
+        limestone walls over twenty-five feet high with musket slits that faced both outside and inside the fort. These could be
+        used to defend against an enemy that breached the fort’s walls and suggest that the tower was designed as a last-ditch point
+        of defense.
+    </body>
+    <body>
+        The tower’s original flat roof could accommodate mounted cannon for defense. Troops mounted a twelve-pound field-artillery
+        piece during the U.S. – Ho-Chunk War of 1827. The fort, however, was never attacked and its cannons never fired in conflict.
+        In the 1830s the tower’s interior was used for storage. By 1839, the fort’s flagpole had been placed on the tower’s roof.
+    </body>
+    <body>
+        During the Civil War, the army added a conical roof made of sheet iron to the tower for ordinance storage. Round Tower
+        lore states that Count Ferdinand von Zeppelin, founder of the Zeppelin airship company, quartered in the Round Tower at
+        Fort Snelling during the war as a German military attaché sent to observe Union Army operations. It is said he launched his
+        first balloon flight from the top of the Round Tower. While Zeppelin claimed to have travelled through St. Paul during this
+        time, there is no evidence to support the connection to the Round Tower.
+    </body>
+    <body>
+        In 1869, a fire gutted the tower and prompted a restoration of the badly damaged building. The conical roof was removed
+        for an open-air weather deck once again. Embrasures were added to the parapet, giving the tower a crenellated, medieval
+        look, and the musket slits were widened into windows. Throughout the remainder of the nineteenth century, the army used
+        the tower, at times, as a washhouse, guardhouse, prison room, and coal storage room.
+    </body>
+    <body>
+        In 1904, the post quartermaster covered the tower, which he was using as an office, with stucco. A public outcry over
+        the building’s changed appearance and cracking of the stucco led him to soon remove it.
+    </body>
+    <body>
+        After World War I, the tower continued to be used as offices and living quarters. It was converted into a family residence
+        by the 1930s and quartered Thomas Marcum, the post electrician whose wife ran a beauty shop there.
+    </body>
+    <body>
+        The Marcums moved out in 1937 when the post commandant, Brigadier General Campbell B. Hodges, decided to convert the tower
+        into a museum of Minnesota history under the supervision of the Minnesota Historical Society. Marion Snelling Hall, the
+        great-granddaughter of Colonel Josiah Snelling, gave her support for the renovation.
+    </body>
+    <body>
+        With the assistance of the Works Progress Administration, the Round Tower Museum opened on May 30, 1941. The interior walls
+        featured a mural by Richard Haines. Its panels depicted scenes of American occupation of the region, beginning in 1805.
+        The terrazzo floor contained an inlayed diagram of the fort as it appeared in 1840.
+    </body>
+    <body>
+        The museum displayed rotating exhibits, including belongings of Josiah Snelling donated by Hall. Hall gave her consent for the
+        remains of Josiah’s daughter Elizabeth, touted as the first white child born in Minnesota, to be moved into a crypt in the wall
+        of the museum. In 1965, Elizabeth was reinterred in the Fort Snelling Chapel.
+    </body>
+    <body>
+        In a ceremony on June 7, 1946, Governor Edward J. Thye removed a stone from the round tower to be sent to Australia and
+        included in a war memorial building in Brisbane. The Australian government requested stones from each of the forty-eight
+        states to honor American troops.
+    </body>
+    <body>
+        In 1956, the Minnesota Highway Department proposed building a highway through a part of the old fort site known as the
+        lower post. The highway’s cloverleaf would have encircled the round tower, cutting off access to it. Public concern
+        sparked a successful movement to reroute the highway and restore the lower post. A team of archeologists excavated the Round
+        Tower in 1965 and restored it to its 1820s appearance the following year. It has since stood among the restored and reconstructed
+        buildings of Historic Fort Snelling, run by the Minnesota Historical Society.
+    </body>
+
+    <button
+        action-0="application-open-url"
+        action-0-argument-0="http://www.mnopedia.org/structure/round-tower-fort-snelling"
+        title="Source"
+        description="Shirey, Sarah. 'Round Tower, Fort Snelling.' MNopedia, Minnesota Historical Society"
+    />
+
+    <image
+        src="/assets/round-tower/1.jpg"
+        description="African American enlisted men and white officers of the Twenty-fifth Infantry standing by the Round Tower, c. 1887."
+    />
+    
+    <image
+        src="/assets/round-tower/2.jpg"
+        description="Oil painting of round tower by moonlight, c. 1888."
+    />
+    
+    <image
+        src="/assets/round-tower/3.jpg"
+        description="Men and women with parasols standing atop the round tower, c. 1900."
+    />
+    
+    <image
+        src="/assets/round-tower/4.jpg"
+        description="View of Round tower covered in vegetation, 1935. Photographed by Norton and Peel."
+    />
+</page>

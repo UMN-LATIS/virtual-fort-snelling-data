@@ -1,0 +1,62 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+    
+    <title>Bdote</title>
+    
+    <subtitle>
+        The confluence of the Minnesota and Mississippi rivers is one of the most historically significant landscapes in Minnesota,
+        known to many Dakota people as Bdote. It is a place where rivers and people have come together for at least 10,000 years.
+    </subtitle>
+
+    <audio
+        src="/assets/bdote/katebeane_bdote.mp3"
+        icon-src="/assets/bdote/katebeane.jpg"
+        title="How to pronounce 'Bdote'"
+        description="Kate Beane"
+    />
+
+    <body>
+        Bdote means "where two waters come together." While bdote can refer to any place where waters converge,
+        many Dakota people consider this location as a sacred place of creation, identifying themselves as the
+        Wicahpi Oyate (Star Nation) who originated in the sky and came into being on this land.
+    </body>
+
+    <body>
+        Historic Fort Snelling sits on the bluff at Bdote, the confluence of the rivers. The Bdote area consists of many
+        locations of historic and contemporary Dakota significance, such as Taku Wakan Tipi (Carver's Cave), Mni Owe Sni
+        (Coldwater Spring), and Oheyawahi (Pilot Knob). The area also includes federally operated buildings, urban development,
+        a national cemetery, and a state park.
+    </body>
+
+    <body>
+        The Dakota people are part of the Oceti Ṡakowiŋ, or Seven Council Fires (historically also called the Sioux, or Great Sioux Nation).
+        Oceti Ṡakowiŋ tradition tells how the people came to be, and provides teachings that all land and water are sacred, and describes
+        that human beings hold responsibilities to one another, to the land, and to the water at places such as Bdote.
+    </body>
+
+    <body>
+        For the Dakota, there are multiple stories of creation, with one account widely held in this region. According to oral tradition,
+        the spirits of the people came down from Caŋku Wanaġi, "the spirit road," made up of the stars of the Milky Way, and when they arrived
+        on Earth, the Creator shaped the first people from the clay of Maka Ina, "Mother Earth" at Bdote. The people were the Oceti Ṡakowiŋ,
+        a society that reflects their cosmic origin. Missionary Stephen R. Riggs, who worked among the Dakota for 40 years, noted that "The
+        Mdewakantonwan think that the mouth of the Minnesota River is precisely over the center of the earth and that they occupy the gate that
+        opens into the western world."
+    </body>
+
+    <body>
+        Dakota sacred sites in this area still exist and are honored by Dakota people and others.
+    </body>
+
+    <button
+        action-0="application-open-url"
+        action-0-argument-0="http://bdotememorymap.org"
+        title="Bdote Memory Map"
+        description="Presented by the Minnesota Humanities Center"
+    />
+</page>

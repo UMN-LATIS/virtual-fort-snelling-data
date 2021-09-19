@@ -1,0 +1,51 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+    <title>Virtual Fort Snelling</title>
+
+    <!-- <subtitle>Paused</subtitle> -->
+
+    <hr />
+
+    <button
+        action-0="menu-next-page"
+        action-0-argument-0="about"
+        title="About"
+        description=""
+    />
+
+    <button
+        title="Timeline"
+        description=""
+        action-0="menu-next-page"
+        action-0-argument-0="timeline"
+    />
+
+    <button
+        action-0="menu-next-page"
+        action-0-argument-0="landmarks"
+        title="Landmarks"
+        description=""
+    />
+
+    <button
+        title="Guided Tours"
+        description=""
+        action-0="menu-next-page"
+        action-0-argument-0="guided-tours"
+    />
+
+    <hr />
+
+    <button
+        title="Options"
+        action-0="menu-next-page"
+        action-0-argument-0="options"
+    />
+
+    <!-- <button
+        title="Resume"
+        action-0="menu-close"
+    /> -->
+</page>

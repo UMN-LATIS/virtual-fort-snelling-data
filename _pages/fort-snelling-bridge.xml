@@ -1,0 +1,25 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Fort Snelling Bridge</title>
+
+	<button
+		title="1909"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1909"
+	/>
+
+	<button
+		title="1964"
+		description="Demolished."
+		action-0="history-set-year"
+		action-0-argument-0="1964"
+	/>
+</page>

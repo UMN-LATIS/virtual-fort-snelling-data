@@ -1,0 +1,32 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Flag</title>
+
+	<button
+		title="1820"
+		description="Construction completed."
+		action-0="history-set-year"
+		action-0-argument-0="1820"
+	/>
+
+	<button
+		title="1839"
+		description="Moved to round tower roof."
+		action-0="history-set-year"
+		action-0-argument-0="1839"
+	/>
+
+	<button
+		title="1861"
+		description="Moved back to parade grounds."
+		action-0="history-set-year"
+		action-0-argument-0="1861"
+	/>
+</page>
