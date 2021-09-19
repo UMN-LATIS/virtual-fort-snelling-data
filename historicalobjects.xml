@@ -4,6 +4,6 @@
 
 <historicalobjects>
     {% for historicalobject in site.historicalobjects %}
-        <historicalobject src="{{ site.url | append: historicalobject.url }}" />
+        <historicalobject src="{{ site.baseurl | append: historicalobject.url }}" />
     {% endfor %}
 </historicalobjects>

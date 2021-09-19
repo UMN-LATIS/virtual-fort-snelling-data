@@ -67,24 +67,24 @@
     </header>
     <main>
         <section>
-            <a href="{{ site.url | append: '/pages.xml' }}">
+            <a href="{{ site.baseurl | append: '/pages.xml' }}">
                 <h2>1. pages</h2>
             </a>
             {% for page in site.pages %}
             <p>
-                <a href="{{ site.url | append: page.url }}">
+                <a href="{{ site.baseurl | append: page.url }}">
                     {{ page.slug }}
                 </a>
             </p>
             {% endfor %}
         </section>
         <section>
-            <a href="{{ site.url | append: '/historicalobjects.xml' }}">
+            <a href="{{ site.baseurl | append: '/historicalobjects.xml' }}">
                 <h2>2. historical objects</h2>
             </a>
             {% for historicalobject in site.historicalobjects %}
             <p>
-                <a href="{{ site.url | append: historicalobject.url }}">
+                <a href="{{ site.baseurl | append: historicalobject.url }}">
                     {{ historicalobject.slug }}
                 </a>
             </p>
