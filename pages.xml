@@ -4,6 +4,6 @@
 
 <pages>
     {% for page in site.pages %}
-        <page src="{{ site.baseurl | append: page.url }}" />
+        <page src="{{ site.url | append: page.url }}" />
     {% endfor %}
 </pages>
