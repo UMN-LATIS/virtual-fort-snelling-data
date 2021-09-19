@@ -1,5 +1,5 @@
 # Site config
-baseurl: ""
+baseurl: "/virtual-fort-snelling-data"
 
 # User config
 title: "Virtual Fort Snelling Data"
