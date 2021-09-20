@@ -6,7 +6,7 @@
 
     <!-- <subtitle>Paused</subtitle> -->
 
-    <hr />
+    <divider />
 
     <button
         action-0="menu-next-page"
@@ -36,7 +36,7 @@
         action-0-argument-0="guided-tours"
     />
 
-    <hr />
+    <divider />
 
     <button
         title="Options"
