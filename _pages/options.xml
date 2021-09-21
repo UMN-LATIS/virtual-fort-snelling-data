@@ -14,10 +14,10 @@
         description="Swap between left-handed or right-handed UI layouts"
         action-0="options-toggle-dominant-hand"
     />
-
+    
     <button
-        title="Debug Overlay"
-        description="Toggle the display of various properties for debugging purposes"
-        action-0="options-toggle-debug-overlay"
+        title="Developer Options"
+        action-0="menu-next-page"
+        action-0-argument-0="developer-options"
     />
 </page>

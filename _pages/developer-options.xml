@@ -1,0 +1,37 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu-prev-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+
+    <title>Developer Options</title>
+
+    <body>I wouldn't linger here unless you know what you're doing!</body>
+
+    <button
+        title="Properties Overlay"
+        description="Toggle the display of various properties for debugging purposes"
+        action-0="developer-toggle-properties-overlay"
+    />
+
+    <button
+        title="Console Overlay"
+        description="Log errors, warnings, and messages to the screen"
+        action-0="developer-toggle-console-overlay"
+    />
+
+    <button
+        title="Clear Cache"
+        description="Clear the cached content and redownload it the next time the app starts"
+        action-0="developer-clear-cache"
+    />
+
+    <!-- <input
+        title="Debug Overlay"
+        description="Toggle the display of various properties for debugging purposes"
+        action-0="options-toggle-debug-overlay"
+    /> -->
+</page>
