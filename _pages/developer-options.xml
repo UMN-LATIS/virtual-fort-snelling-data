@@ -29,9 +29,16 @@
         action-0="developer-clear-cache"
     />
 
-    <!-- <input
-        title="Debug Overlay"
-        description="Toggle the display of various properties for debugging purposes"
-        action-0="options-toggle-debug-overlay"
-    /> -->
+    <subtitle>Pages Source</subtitle>
+    
+    <input
+        placeholder="Development server url..."
+        action-0="developer-redownload-pages-development"
+    />
+
+    <button
+        title="Reset Pages"
+        description="Redownload the pages from the production server"
+        action-0="developer-redownload-pages-production"
+    />
 </page>
