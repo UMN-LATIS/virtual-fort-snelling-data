@@ -2,7 +2,9 @@
 # empty front matter to force jekyll processing
 ---
 
-<pages>
+<pages
+    date="{{ site.time }}"
+>
     {% for page in site.pages %}
         <page src="{{ page.url }}" />
     {% endfor %}

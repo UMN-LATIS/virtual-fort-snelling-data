@@ -2,7 +2,9 @@
 # empty front matter to force jekyll processing
 ---
 
-<historicalobjects>
+<historicalobjects
+    date="{{ site.time }}"
+>
     {% for historicalobject in site.historicalobjects %}
         <historicalobject src="{{ historicalobject.url }}" />
     {% endfor %}
