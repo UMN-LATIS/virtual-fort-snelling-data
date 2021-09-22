@@ -9,24 +9,33 @@
 	
 	<title>South-west Barracks</title>
 
-	<button
-		title="1861"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1861"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1861"
+			title="1861"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1861"
+		/>
 
-	<button
-		title="1877"
-		description="Sheds demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1877"
-	/>
+		<timeline-button
+			year="1877"
+			title="1877"
+			description="Sheds demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1877"
+		/>
 
-	<button
-		title="1881"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1881"
-	/>
+		<timeline-button
+			year="1881"
+			title="1881"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1881"
+		/>
+	</timeline>
 </page>

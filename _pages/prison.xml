@@ -9,24 +9,33 @@
 	
 	<title>Prison</title>
 
-	<button
-		title="1865"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1865"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1865"
+			title="1865"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1865"
+		/>
 
-	<button
-		title="1904"
-		description="Remodeled and covered in stucco."
-		action-0="history-set-year"
-		action-0-argument-0="1904"
-	/>
+		<timeline-button
+			year="1904"
+			title="1904"
+			description="Remodeled and covered in stucco."
+			action-0="history-set-year"
+			action-0-argument-0="1904"
+		/>
 
-	<button
-		title="1972"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1972"
-	/>
+		<timeline-button
+			year="1972"
+			title="1972"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1972"
+		/>
+	</timeline>
 </page>

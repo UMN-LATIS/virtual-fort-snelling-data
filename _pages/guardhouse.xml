@@ -9,24 +9,33 @@
 	
 	<title>Guardhouse</title>
 
-	<button
-		title="1820"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1820"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1820"
+			title="1820"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1820"
+		/>
 
-	<button
-		title="1879"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1879"
-	/>
+		<timeline-button
+			year="1879"
+			title="1879"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1879"
+		/>
 
-	<button
-		title="1966"
-		description="Rebuilt to original appearance."
-		action-0="history-set-year"
-		action-0-argument-0="1966"
-	/>
+		<timeline-button
+			year="1966"
+			title="1966"
+			description="Rebuilt to original appearance."
+			action-0="history-set-year"
+			action-0-argument-0="1966"
+		/>
+	</timeline>
 </page>

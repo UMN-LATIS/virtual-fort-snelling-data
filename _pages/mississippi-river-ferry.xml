@@ -9,17 +9,25 @@
 	
 	<title>Mississippi River Ferry</title>
 
-	<button
-		title="1839"
-		description="Operation begins."
-		action-0="history-set-year"
-		action-0-argument-0="1839"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1839"
+			title="1839"
+			description="Operation begins."
+			action-0="history-set-year"
+			action-0-argument-0="1839"
+		/>
 
-	<button
-		title="1879"
-		description="Operation ceases."
-		action-0="history-set-year"
-		action-0-argument-0="1879"
-	/>
+		<timeline-button
+			year="1879"
+			title="1879"
+			description="Operation ceases."
+			action-0="history-set-year"
+			action-0-argument-0="1879"
+		/>
+	</timeline>
 </page>

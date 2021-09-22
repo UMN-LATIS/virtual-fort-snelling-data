@@ -9,17 +9,25 @@
 	
 	<title>Mess Halls</title>
 
-	<button
-		title="1861"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1861"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1861"
+			title="1861"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1861"
+		/>
 
-	<button
-		title="1887"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1887"
-	/>
+		<timeline-button
+			year="1887"
+			title="1887"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1887"
+		/>
+	</timeline>
 </page>

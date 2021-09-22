@@ -9,17 +9,25 @@
 	
 	<title>Fort Snelling High Bridge</title>
 
-	<button
-		title="1880"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1880"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1880"
+			title="1880"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1880"
+		/>
 
-	<button
-		title="1908"
-		description="Replaced by hte Fort Snelling Bridge."
-		action-0="history-set-year"
-		action-0-argument-0="1908"
-	/>
+		<timeline-button
+			year="1908"
+			title="1908"
+			description="Replaced by hte Fort Snelling Bridge."
+			action-0="history-set-year"
+			action-0-argument-0="1908"
+		/>
+	</timeline>
 </page>

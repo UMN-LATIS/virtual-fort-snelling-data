@@ -9,10 +9,17 @@
 	
 	<title>Mendota Bridge</title>
 
-	<button
-		title="1926"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1926"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1926"
+			title="1926"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1926"
+		/>
+	</timeline>
 </page>

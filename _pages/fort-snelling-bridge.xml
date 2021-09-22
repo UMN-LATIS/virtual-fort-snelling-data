@@ -9,17 +9,25 @@
 	
 	<title>Fort Snelling Bridge</title>
 
-	<button
-		title="1909"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1909"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1909"
+			title="1909"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1909"
+		/>
 
-	<button
-		title="1964"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1964"
-	/>
+		<timeline-button
+			year="1964"
+			title="1964"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1964"
+		/>
+	</timeline>
 </page>

@@ -9,24 +9,33 @@
 	
 	<title>Flag</title>
 
-	<button
-		title="1820"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1820"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1820"
+			title="1820"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1820"
+		/>
 
-	<button
-		title="1839"
-		description="Moved to round tower roof."
-		action-0="history-set-year"
-		action-0-argument-0="1839"
-	/>
+		<timeline-button
+			year="1839"
+			title="1839"
+			description="Moved to round tower roof."
+			action-0="history-set-year"
+			action-0-argument-0="1839"
+		/>
 
-	<button
-		title="1861"
-		description="Moved back to parade grounds."
-		action-0="history-set-year"
-		action-0-argument-0="1861"
-	/>
+		<timeline-button
+			year="1861"
+			title="1861"
+			description="Moved back to parade grounds."
+			action-0="history-set-year"
+			action-0-argument-0="1861"
+		/>
+	</timeline>
 </page>

@@ -9,24 +9,33 @@
 	
 	<title>Shops</title>
 
-	<button
-		title="1826"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1826"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1826"
+			title="1826"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1826"
+		/>
 
-	<button
-		title="1840"
-		description="Remodeled and converted into a hospital."
-		action-0="history-set-year"
-		action-0-argument-0="1840"
-	/>
+		<timeline-button
+			year="1840"
+			title="1840"
+			description="Remodeled and converted into a hospital."
+			action-0="history-set-year"
+			action-0-argument-0="1840"
+		/>
 
-	<button
-		title="1966"
-		description="Restored to original appearance."
-		action-0="history-set-year"
-		action-0-argument-0="1966"
-	/>
+		<timeline-button
+			year="1966"
+			title="1966"
+			description="Restored to original appearance."
+			action-0="history-set-year"
+			action-0-argument-0="1966"
+		/>
+	</timeline>
 </page>

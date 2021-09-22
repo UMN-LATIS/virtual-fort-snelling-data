@@ -9,17 +9,25 @@
 	
 	<title>Gunshed</title>
 
-	<button
-		title="1828"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1828"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1828"
+			title="1828"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1828"
+		/>
 
-	<button
-		title="1879"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1879"
-	/>
+		<timeline-button
+			year="1879"
+			title="1879"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1879"
+		/>
+	</timeline>
 </page>

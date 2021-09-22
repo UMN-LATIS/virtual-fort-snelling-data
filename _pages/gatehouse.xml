@@ -9,24 +9,33 @@
 	
 	<title>Gatehouse</title>
 
-	<button
-		title="1825"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1825"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1825"
+			title="1825"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1825"
+		/>
 
-	<button
-		title="1879"
-		description="Demolished"
-		action-0="history-set-year"
-		action-0-argument-0="1879"
-	/>
+		<timeline-button
+			year="1879"
+			title="1879"
+			description="Demolished"
+			action-0="history-set-year"
+			action-0-argument-0="1879"
+		/>
 
-	<button
-		title="1977"
-		description="Rebuilt to original appearance."
-		action-0="history-set-year"
-		action-0-argument-0="1977"
-	/>
+		<timeline-button
+			year="1977"
+			title="1977"
+			description="Rebuilt to original appearance."
+			action-0="history-set-year"
+			action-0-argument-0="1977"
+		/>
+	</timeline>
 </page>
