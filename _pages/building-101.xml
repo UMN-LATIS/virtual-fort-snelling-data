@@ -9,10 +9,17 @@
 	
 	<title>Building 101</title>
 
-	<button
-		title="1888"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1888"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1888"
+			title="1888"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1888"
+		/>
+	</timeline>
 </page>

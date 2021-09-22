@@ -9,17 +9,25 @@
 	
 	<title>Building 105</title>
 
-	<button
-		title="1888"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1888"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1888"
+			title="1888"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1888"
+		/>
 
-	<button
-		title="1969"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1969"
-	/>
+		<timeline-button
+			year="1969"
+			title="1969"
+			description="Demolished to make way for the Minneapolis−Saint Paul International Airport."
+			action-0="history-set-year"
+			action-0-argument-0="1969"
+		/>
+	</timeline>
 </page>

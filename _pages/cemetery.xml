@@ -9,17 +9,25 @@
 	
 	<title>Cemetery</title>
 
-	<button
-		title="1820"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1820"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1820"
+			title="1820"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1820"
+		/>
 
-	<button
-		title="1888"
-		description="Demolished. (Relocated)?"
-		action-0="history-set-year"
-		action-0-argument-0="1888"
-	/>
+		<timeline-button
+			year="1888"
+			title="1888"
+			description="Demolished (relocated)?"
+			action-0="history-set-year"
+			action-0-argument-0="1888"
+		/>
+	</timeline>
 </page>

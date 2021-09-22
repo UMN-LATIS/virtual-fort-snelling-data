@@ -9,17 +9,27 @@
 	
 	<title>Building 17</title>
 
-	<button
-		title="1904"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1904"
-	/>
+    <timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1904"
+			title="1904"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1904"
+		/>
 
-	<button
-		title="1934"
-		description="Porch demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1934"
-	/>
+		<timeline-button
+			year="1934"
+			title="1934"
+			description="Porch demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1934"
+		/>
+	</timeline>
+
+	
 </page>

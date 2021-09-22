@@ -9,24 +9,33 @@
 	
 	<title>Commissary</title>
 
-	<button
-		title="1824"
-		description="Construction completed."
-		action-0="history-set-year"
-		action-0-argument-0="1824"
-	/>
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1824"
+			title="1824"
+			description="Construction completed."
+			action-0="history-set-year"
+			action-0-argument-0="1824"
+		/>
 
-	<button
-		title="1896"
-		description="Demolished."
-		action-0="history-set-year"
-		action-0-argument-0="1896"
-	/>
+		<timeline-button
+			year="1896"
+			title="1896"
+			description="Demolished."
+			action-0="history-set-year"
+			action-0-argument-0="1896"
+		/>
 
-	<button
-		title="1966"
-		description="Rebuilt to original appearance."
-		action-0="history-set-year"
-		action-0-argument-0="1966"
-	/>
+		<timeline-button
+			year="1966"
+			title="1966"
+			description="Rebuilt to original appearance."
+			action-0="history-set-year"
+			action-0-argument-0="1966"
+		/>
+	</timeline>
 </page>
