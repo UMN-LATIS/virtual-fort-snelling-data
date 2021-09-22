@@ -14,6 +14,12 @@
         description="Swap between left-handed or right-handed UI layouts"
         action-0="options-toggle-dominant-hand"
     />
+
+    <button
+        title="Color Theme"
+        description="Swap between light and dark color themes"
+        action-0="options-toggle-color-theme"
+    />
     
     <button
         title="Developer Options"
