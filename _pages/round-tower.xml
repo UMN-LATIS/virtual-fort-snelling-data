@@ -11,53 +11,33 @@
 
     <timeline>
         <timeline-button
-            year="1820"
+            title="1820"
             description="Construction completed."
+            action-0="history-set-year"
+            action-0-argument-0="1820"
         />
 
         <timeline-button
-            year="1861"
+            title="1861"
             description="Tin roof added."
+            action-0="history-set-year"
+            action-0-argument-0="1861"
         />
 
         <timeline-button
-            year="1869"
+            title="1869"
             description="Remodeled and merlons added."
+            action-0="history-set-year"
+            action-0-argument-0="1869"
         />
 
         <timeline-button
-            year="1966"
+            title="1966"
             description="Restored to original appearance."
+            action-0="history-set-year"
+            action-0-argument-0="1966"
         />
     </timeline>
-
-    <!-- <button
-        title="1820"
-        description="Construction completed."
-        action-0="history-set-year"
-        action-0-argument-0="1820"
-    />
-
-	<button
-        title="1861"
-        description="Tin roof added."
-        action-0="history-set-year"
-        action-0-argument-0="1861"
-    />
-
-	<button
-        title="1869"
-        description="Remodeled and merlons added."
-        action-0="history-set-year"
-        action-0-argument-0="1869"
-    />
-
-	<button
-        title="1966"
-        description="Restored to original appearance."
-        action-0="history-set-year"
-        action-0-argument-0="1966"
-    /> -->
 
     <body>
         The Round Tower has been a symbol of Fort Snelling since its construction in 1820. Though the U.S. Army originally
