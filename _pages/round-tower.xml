@@ -11,6 +11,7 @@
 
     <timeline>
         <timeline-button
+            year="1820"
             title="1820"
             description="Construction completed."
             action-0="history-set-year"
@@ -18,6 +19,7 @@
         />
 
         <timeline-button
+            year="1861"
             title="1861"
             description="Tin roof added."
             action-0="history-set-year"
@@ -25,6 +27,7 @@
         />
 
         <timeline-button
+            year="1869"
             title="1869"
             description="Remodeled and merlons added."
             action-0="history-set-year"
@@ -32,6 +35,7 @@
         />
 
         <timeline-button
+            year="1966"
             title="1966"
             description="Restored to original appearance."
             action-0="history-set-year"
