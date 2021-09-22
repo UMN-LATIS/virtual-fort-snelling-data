@@ -9,7 +9,11 @@
     
     <title>The Round Tower</title>
 
-    <timeline>
+    <timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
         <timeline-button
             year="1820"
             title="1820"
