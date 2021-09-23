@@ -18,7 +18,7 @@
     <button
         title="Color Theme"
         description="Swap between light and dark color themes"
-        action-0="option:swap-theme"
+        action-0="options:swap-theme"
     />
     
     <button
