@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
 	
@@ -18,7 +18,7 @@
 			year="1824"
 			title="1824"
 			description="Construction completed."
-			action-0="history-set-year"
+			action-0="history:set-year"
 			action-0-argument-0="1824"
 		/>
 
@@ -26,7 +26,7 @@
 			year="1896"
 			title="1896"
 			description="Demolished."
-			action-0="history-set-year"
+			action-0="history:set-year"
 			action-0-argument-0="1896"
 		/>
 
@@ -34,7 +34,7 @@
 			year="1966"
 			title="1966"
 			description="Rebuilt to original appearance."
-			action-0="history-set-year"
+			action-0="history:set-year"
 			action-0-argument-0="1966"
 		/>
 	</timeline>

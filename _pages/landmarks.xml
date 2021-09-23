@@ -3,42 +3,42 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
     
     <title>Landmarks</title>
 
     <button
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="bdote"
         title="Bdote"
         description=""
     />
 
     <button
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="diamond-area"
         title="The Diamond Area"
         description=""
     />
 
     <button
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="draft-rendezvous"
         title="Draft Rendezvous"
         description=""
     />
 
     <button
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="transportation"
         title="Transportation"
         description=""
     />
 
     <button
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="upper-post"
         title="Upper Post"
         description=""

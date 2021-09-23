@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
 	
@@ -18,7 +18,7 @@
 			year="1961"
 			title="1961"
 			description="Construction completed."
-			action-0="history-set-year"
+			action-0="history:set-year"
 			action-0-argument-0="1961"
 		/>
 	</timeline>

@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
     
@@ -20,28 +20,28 @@
     <button
         title="Dr. Katherine Hayes"
         description="Historical consulation and research"
-        action-0="application-open-url"
+        action-0="application:open-url"
         action-0-argument-0="https://cla.umn.edu/about/directory/profile/kathayes"
     />
 
     <button
         title="Daniel Shervheim"
         description="Programming, art direction, 3D modelling"
-        action-0="application-open-url"
+        action-0="application:open-url"
         action-0-argument-0="https://danielshervheim.com/"
     />
 
     <button
         title="University of Virginia IATH"
         description="Additional 3D models"
-        action-0="application-open-url"
+        action-0="application:open-url"
         action-0-argument-0="http://mhs.iath.virginia.edu/snelling.html"
     />
 
     <button
         title="MNHS"
         description="Fort Snelling iconography"
-        action-0="application-open-url"
+        action-0="application:open-url"
         action-0-argument-0="https://www.mnhs.org"
     />
 

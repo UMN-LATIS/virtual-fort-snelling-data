@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
 
@@ -12,18 +12,19 @@
     <button
         title="Handedness"
         description="Swap between left-handed or right-handed UI layouts"
-        action-0="options-toggle-dominant-hand"
+        action-0="options:swap-hand"
     />
 
     <button
         title="Color Theme"
         description="Swap between light and dark color themes"
-        action-0="options-toggle-color-theme"
+        action-0="option:swap-theme"
     />
     
     <button
         title="Developer Options"
-        action-0="menu-next-page"
+        description=""
+        action-0="menu:next-page"
         action-0-argument-0="developer-options"
     />
 </page>

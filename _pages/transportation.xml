@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
     
@@ -13,25 +13,25 @@
 
     <button
         title="Fort Snelling High Bridge"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="fort-snelling-high-bridge"
     />
 
     <button
         title="Fort Snelling Bridge"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="fort-snelling-bridge"
     />
 
     <button
         title="Highway 5 Bridge"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="highway-5-bridge"
     />
 
     <button
         title="Mendota Bridge"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="mendota-bridge"
     />
 
@@ -39,13 +39,13 @@
 
     <button
         title="Minnesota River Ferry"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="minnesota-river-ferry"
     />
 
     <button
         title="Mississippi River Ferry"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="mississippi-river-ferry"
     />
 

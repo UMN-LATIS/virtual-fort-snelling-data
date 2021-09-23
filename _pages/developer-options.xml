@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
 
@@ -14,31 +14,32 @@
     <button
         title="Properties Overlay"
         description="Toggle the display of various properties for debugging purposes"
-        action-0="developer-toggle-properties-overlay"
+        action-0="developer:toggle-info"
     />
 
     <button
         title="Console Overlay"
         description="Log errors, warnings, and messages to the screen"
-        action-0="developer-toggle-console-overlay"
+        action-0="developer:toggle-console"
     />
 
     <button
         title="Clear Cache"
         description="Clear the cached content and redownload it the next time the app starts"
-        action-0="developer-clear-cache"
+        action-0="developer:clear-cache"
     />
 
     <subtitle>Pages Source</subtitle>
     
     <input
         placeholder="Development server url..."
-        action-0="developer-redownload-pages-development"
+        action-0="developer:refresh-content"
     />
 
     <button
         title="Reset Pages"
         description="Redownload the pages from the production server"
-        action-0="developer-redownload-pages-production"
+        action-0="developer:refresh-content"
+        action-0-argument-0=""
     />
 </page>

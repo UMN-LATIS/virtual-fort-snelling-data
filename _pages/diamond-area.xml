@@ -3,7 +3,7 @@
 ---
 <page>
 	<icon-button
-		action-0="menu-prev-page"
+		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
 	/>
     
@@ -11,84 +11,84 @@
 
     <button
         title="The Commander's House"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="commanders-house"
     />
 
     <button
         title="Commissary"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="commissary"
     />
 
     <button
         title="The Flag-pole"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="flag"
     />
 
     <button
         title="Gatehouse"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="gatehouse"
     />
 
     <button
         title="Guardhouse"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="guardhouse"
     />
 
     <button
         title="Gunshed"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="gunshed"
     />
 
     <button
         title="Half-moon Battery"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="half-moon-battery"
     />
 
     <button
         title="Hexagonal Tower"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="hexagonal-tower"
     />
 
     <button
         title="Hospital"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="hospital"
     />
 
     <button
         title="Magazine"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="magazine"
     />
 
     <button
         title="Officer's Quarters"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="officers-quarters"
     />
 
     <button
         title="Pentagonal Tower"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="pentagonal-tower"
     />
 
     <button
         title="Prison"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="prison"
     />
 
     <button
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="round-tower"
         title="The Round Tower"
         description=""
@@ -96,37 +96,37 @@
 
     <button
         title="School"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="school"
     />
 
     <button
         title="Shops"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="shops"
     />
 
     <button
         title="Stone Barracks"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="short-barracks"
     />
 
     <button
         title="Sutler's Store"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="sutlers-store"
     />
 
     <button
         title="Well"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="well"
     />
 
     <button
         title="Wood Barracks"
-        action-0="menu-next-page"
+        action-0="menu:next-page"
         action-0-argument-0="long-barracks"
     />
 </page>
