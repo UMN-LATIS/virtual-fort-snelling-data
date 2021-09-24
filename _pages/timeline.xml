@@ -11,47 +11,771 @@
 
 	<timeline>
 		<timeline-button
-			year="1803"
 			title="1803"
 			description="President Thomas Jefferson purchased the vast Louisiana Territory from France."
+			year="1803"
 			action-0="history:set-year"
 			action-0-argument-0="1803"
 		/>
 
 		<timeline-button
-			year="1805"
+			title="1804 - 1805"
+			description="During the exploration of the Lousiana Territory"
+			year="1804"
+			action-0="history:set-year"
+			action-0-argument-0="1804"
+		/>
+
+		<timeline-button
 			title="1805"
 			description="Lieutenant Zebulon M. Pike selected the confluence of the Mississippi and St. Peter's (Minnesota) rivers as a likely location for the country's most northwestern military post."
+			year="1805"
 			action-0="history:set-year"
 			action-0-argument-0="1805"
 		/>
 
 		<timeline-button
+			title="1805"
+			description="Lieutenant Zebulon Pike negotiated a treaty with the Dakota tribe"
+			year="1805"
+			action-0="history:set-year"
+			action-0-argument-0="1805"
+		/>
+
+		<timeline-button
+			title="1812 - 1805"
+			description="United States warred with England over mercantile rights on the seas and expansionist rights in the interior. "
 			year="1812"
-			title="1812 - 1815"
-			description="United States warred with England over mercantile rights on the seas and expansionist rights in the interior."
 			action-0="history:set-year"
 			action-0-argument-0="1812"
 		/>
 
 		<timeline-button
-			year="1817"
 			title="1817"
-			description="Major Stephen H. Long, topographical engineer, approved the site chosen by Pike, declaring it essential for controlling access into the north country."
+			description="Major Stephen H. Long"
+			year="1817"
 			action-0="history:set-year"
 			action-0-argument-0="1817"
+		/>
+
+		<timeline-button
+			title="1818"
+			description="Secretary of War John C. Calhoun announced plans for building a string of forts — including one on the St. Peter's River — to defend the Northwest against British aggression and to secure fur trade profits for the United States."
+			year="1818"
+			action-0="history:set-year"
+			action-0-argument-0="1818"
+		/>
+
+		<timeline-button
+			title="1819"
+			description="Lieutenant Colonel Henry Leavenworth and the Fifth Regiment ascended the Mississippi River to the St. Peter's junction where they constructed a temporary camp In which the men spent an illness-ridden winter."
+			year="1819"
+			action-0="history:set-year"
+			action-0-argument-0="1819"
+		/>
+
+		<timeline-button
+			title="1819"
+			description="The first fort was constructed. The first commander"
+			year="1819"
+			action-0="history:set-year"
+			action-0-argument-0="1819"
+		/>
+
+		<timeline-button
+			title="1820 - 1827"
+			description="Thirty-eight-year-old Colonel Josiah Snelling replaced Leavenworth as commander of the expedition"
+			year="1820"
+			action-0="history:set-year"
+			action-0-argument-0="1820"
+		/>
+
+		<timeline-button
+			title="1820 - 1839"
+			description="Lawrence Taliaferro arrived at the outpost"
+			year="1820"
+			action-0="history:set-year"
+			action-0-argument-0="1820"
+		/>
+
+		<timeline-button
+			title="1820"
+			description="Fearing spring floods and more disease"
+			year="1820"
+			action-0="history:set-year"
+			action-0-argument-0="1820"
+		/>
+
+		<timeline-button
+			title="1823"
+			description="First Minnesota school with a regular teacher conducted at the fort by John Marsh for 10 area children. Count Giacomo C. Beltrami"
+			year="1823"
+			action-0="history:set-year"
+			action-0-argument-0="1823"
+		/>
+
+		<timeline-button
+			title="1824"
+			description="Major General Winfield Scott inspected the completed limestone post"
+			year="1824"
+			action-0="history:set-year"
+			action-0-argument-0="1824"
+		/>
+
+		<timeline-button
+			title="1825"
+			description="Construction of the new post was completed. The following year"
+			year="1825"
+			action-0="history:set-year"
+			action-0-argument-0="1825"
+		/>
+
+		<timeline-button
+			title="1828"
+			description="Southern-born Zachary Taylor"
+			year="1828"
+			action-0="history:set-year"
+			action-0-argument-0="1828"
+		/>
+
+		<timeline-button
+			title="1828 - 1829"
+			description="Zachary Taylor commands the fort. Lt. Colonel Taylor later becomes the 12th president of the United States. One of Taylor's daughters elopes with Lieutenant Jefferson Davis"
+			year="1828"
+			action-0="history:set-year"
+			action-0-argument-0="1828"
+		/>
+
+		<timeline-button
+			title="1832"
+			description="Massive smallpox vaccination by post physician prevented spread of the dread disease to entire Indian population. Henry R. Schoolcraft arrived at the fort"
+			year="1832"
+			action-0="history:set-year"
+			action-0-argument-0="1832"
+		/>
+
+		<timeline-button
+			title="1834"
+			description="Missionaries Gideon and Samuel W. Pond"
+			year="1834"
+			action-0="history:set-year"
+			action-0-argument-0="1834"
+		/>
+
+		<timeline-button
+			title="1835"
+			description="First Protestant church in Minnesota was organized at the fort with a congregation of 21. George Catlin"
+			year="1835"
+			action-0="history:set-year"
+			action-0-argument-0="1835"
+		/>
+
+		<timeline-button
+			title="1836"
+			description="French cartographer Joseph N. Nicollet set up a base camp at the fort. The First Regiment aided him In his work on the acclaimed hydrographic map of the Mississippi-Missouri region. As a slave to the post's physician"
+			year="1836"
+			action-0="history:set-year"
+			action-0-argument-0="1836"
+		/>
+
+		<timeline-button
+			title="1836 - 1840"
+			description="Dred Scott lives at Fort Snelling as a slave of Dr. Emerson. Mr. Scott later sues for his freedom in Scott vs. Sandford"
+			year="1836"
+			action-0="history:set-year"
+			action-0-argument-0="1836"
+		/>
+
+		<timeline-button
+			title="1837"
+			description="Mrs. Alexander Hamilton"
+			year="1837"
+			action-0="history:set-year"
+			action-0-argument-0="1837"
+		/>
+
+		<timeline-button
+			title="1838"
+			description="Chippewa Chief Hole-ln-the-Day's group"
+			year="1838"
+			action-0="history:set-year"
+			action-0-argument-0="1838"
+		/>
+
+		<timeline-button
+			title="1840"
+			description="Major Plympton leveled the cabins of the squatters who resisted moving off the government-owned land surrounding the post"
+			year="1840"
+			action-0="history:set-year"
+			action-0-argument-0="1840"
+		/>
+
+		<timeline-button
+			title="1841"
+			description="Captain Seth Eastman"
+			year="1841"
+			action-0="history:set-year"
+			action-0-argument-0="1841"
+		/>
+
+		<timeline-button
+			title="1848"
+			description="Fort Snelling troops assisted In the second forced migration from Iowa to Minnesota of the Winnebago Indians"
+			year="1848"
+			action-0="history:set-year"
+			action-0-argument-0="1848"
+		/>
+
+		<timeline-button
+			title="1849"
+			description="Minnesota Territory was formed"
+			year="1849"
+			action-0="history:set-year"
+			action-0-argument-0="1849"
+		/>
+
+		<timeline-button
+			title="1849"
+			description="The Minnesota Territory was formed with Saint Paul as its political center. As the western frontier became ever more remote"
+			year="1849"
+			action-0="history:set-year"
+			action-0-argument-0="1849"
+		/>
+
+		<timeline-button
+			title="1850"
+			description="Simon Bolivar Buckner"
+			year="1850"
+			action-0="history:set-year"
+			action-0-argument-0="1850"
+		/>
+
+		<timeline-button
+			title="1851"
+			description="Treaties signed with the Sioux opened much of southern Minnesota to settlement"
+			year="1851"
+			action-0="history:set-year"
+			action-0-argument-0="1851"
+		/>
+
+		<timeline-button
+			title="1853"
+			description="Thomas W. Sherman"
+			year="1853"
+			action-0="history:set-year"
+			action-0-argument-0="1853"
+		/>
+
+		<timeline-button
+			title="1856"
+			description="Edward R. S. Canby served as commandant at the fort"
+			year="1856"
+			action-0="history:set-year"
+			action-0-argument-0="1856"
+		/>
+
+		<timeline-button
+			title="1857"
+			description="Former fort sutler Franklin Steele clandestinely purchased Fort Snelling for $90"
+			year="1857"
+			action-0="history:set-year"
+			action-0-argument-0="1857"
+		/>
+
+		<timeline-button
+			title="1858"
+			description="Minnesota became a state. The last troops marched out of the old fort which was then operated as a sheep farm by Steele until 1861."
+			year="1858"
+			action-0="history:set-year"
+			action-0-argument-0="1858"
+		/>
+
+		<timeline-button
+			title="1858"
+			description="Fort Snelling and eight thousand surrounding acres were sold under dubious circumstances to Franklin Steele"
+			year="1858"
+			action-0="history:set-year"
+			action-0-argument-0="1858"
+		/>
+
+		<timeline-button
+			title="1861"
+			description="Civil War broke out"
+			year="1861"
+			action-0="history:set-year"
+			action-0-argument-0="1861"
+		/>
+
+		<timeline-button
+			title="1861 - 1865"
+			description="The outbreak of the Civil War and the U.S.-Dakota Conflict prompted the reactivation of the fort. Several hundred Dakota die on Pike Island below the fort when approximately 1600 elderly people"
+			year="1861"
+			action-0="history:set-year"
+			action-0-argument-0="1861"
+		/>
+
+		<timeline-button
+			title="1862"
+			description="General Henry H. Sibley led fort soldiers up the Minnesota River Valley where they quickly quelled the unorganized Sioux who participated in the desperate and short-lived Sioux Uprising."
+			year="1862"
+			action-0="history:set-year"
+			action-0-argument-0="1862"
+		/>
+
+		<timeline-button
+			title="1862 - 1863"
+			description="Uncondemned Sioux men"
+			year="1862"
+			action-0="history:set-year"
+			action-0-argument-0="1862"
+		/>
+
+		<timeline-button
+			title="1866"
+			description="Major General William T. Sherman"
+			year="1866"
+			action-0="history:set-year"
+			action-0-argument-0="1866"
+		/>
+
+		<timeline-button
+			title="1866"
+			description="The Army decided to retain the post for use as a headquarters for the Department of the Dakotas."
+			year="1866"
+			action-0="history:set-year"
+			action-0-argument-0="1866"
+		/>
+
+		<timeline-button
+			title="1871"
+			description="Fort Snelling was formally transferred from Steele back to the government."
+			year="1871"
+			action-0="history:set-year"
+			action-0-argument-0="1871"
+		/>
+
+		<timeline-button
+			title="1879"
+			description="At the recommendation of Alfred H. Terry"
+			year="1879"
+			action-0="history:set-year"
+			action-0-argument-0="1879"
+		/>
+
+		<timeline-button
+			title="1881 - 1886"
+			description="The Department of Dakota"
+			year="1881"
+			action-0="history:set-year"
+			action-0-argument-0="1881"
+		/>
+
+		<timeline-button
+			title="1889"
+			description="New brick infantry barracks were built."
+			year="1889"
+			action-0="history:set-year"
+			action-0-argument-0="1889"
+		/>
+
+		<timeline-button
+			title="1895"
+			description="General E. C. Mason"
+			year="1895"
+			action-0="history:set-year"
+			action-0-argument-0="1895"
+		/>
+
+		<timeline-button
+			title="1898"
+			description="Fort soldiers were dispatched to Leech Lake where their presence discouraged a rebellion among the Pillager Chippewa Indians. Troops ordered to Cuba and the Philippines during the Spanish-American War and the Philippine Insurrection were mustered at the fort."
+			year="1898"
+			action-0="history:set-year"
+			action-0-argument-0="1898"
+		/>
+
+		<timeline-button
+			title="1903 - 1907"
+			description="New barracks"
+			year="1903"
+			action-0="history:set-year"
+			action-0-argument-0="1903"
+		/>
+
+		<timeline-button
+			title="1917 - 1918"
+			description="World War 1 troops inducted and trained at the fort."
+			year="1917"
+			action-0="history:set-year"
+			action-0-argument-0="1917"
+		/>
+
+		<timeline-button
+			title="1917 - 1918"
+			description="As a site for the training of officers"
+			year="1917"
+			action-0="history:set-year"
+			action-0-argument-0="1917"
+		/>
+
+		<timeline-button
+			title="1918 - 1939"
+			description="The fort became known as the 'Country Club of the Army.' A golf course"
+			year="1918"
+			action-0="history:set-year"
+			action-0-argument-0="1918"
+		/>
+
+		<timeline-button
+			title="1938"
+			description="The Work Progress Administration reconstructed portions of the post at a cost of $500"
+			year="1938"
+			action-0="history:set-year"
+			action-0-argument-0="1938"
+		/>
+
+		<timeline-button
+			title="1940"
+			description="The Selective Service Act led to the opening of a Recruiting and Induction Station and a Reception Center. Over 600"
+			year="1940"
+			action-0="history:set-year"
+			action-0-argument-0="1940"
+		/>
+
+		<timeline-button
+			title="1941 - 1945"
+			description="Fort served as an induction-discharge and training 1945 center for troops throughout World War II."
+			year="1941"
+			action-0="history:set-year"
+			action-0-argument-0="1941"
+		/>
+
+		<timeline-button
+			title="1944"
+			description="A Military Intelligence Service Language School was established at the post. Over 6"
+			year="1944"
+			action-0="history:set-year"
+			action-0-argument-0="1944"
+		/>
+
+		<timeline-button
+			title="1946"
+			description="Fort Snelling retired permanently as a military post and transferred to the Veterans' Administration."
+			year="1946"
+			action-0="history:set-year"
+			action-0-argument-0="1946"
+		/>
+
+		<timeline-button
+			title="1946"
+			description="Fort Snelling was decommissioned following the end of WWII. The site was turned over to the Veteran's Administration."
+			year="1946"
+			action-0="history:set-year"
+			action-0-argument-0="1946"
+		/>
+
+		<timeline-button
+			title="1956"
+			description="Minnesota highway department decision to construct a freeway through the old fort grounds was challenged and a compromise tunnel solution accepted."
+			year="1956"
+			action-0="history:set-year"
+			action-0-argument-0="1956"
+		/>
+
+		<timeline-button
+			title="1958"
+			description="Archaeological exploration of the original site deemed that restoration was feasible"
+			year="1958"
+			action-0="history:set-year"
+			action-0-argument-0="1958"
+		/>
+
+		<timeline-button
+			title="1960"
+			description="Fort Snelling declared a national historic landmark."
+			year="1960"
+			action-0="history:set-year"
+			action-0-argument-0="1960"
+		/>
+
+		<timeline-button
+			title="1960"
+			description="Fort Snelling"
+			year="1960"
+			action-0="history:set-year"
+			action-0-argument-0="1960"
+		/>
+
+		<timeline-button
+			title="1961"
+			description="Minnesota legislature established Fort Snelling State Park"
+			year="1961"
+			action-0="history:set-year"
+			action-0-argument-0="1961"
+		/>
+
+		<timeline-button
+			title="1961"
+			description="Fort Snelling State Park was established."
+			year="1961"
+			action-0="history:set-year"
+			action-0-argument-0="1961"
+		/>
+
+		<timeline-button
+			title="1965"
+			description="Funds for complete restoration and reconstruction authorized by the state legislature."
+			year="1965"
+			action-0="history:set-year"
+			action-0-argument-0="1965"
+		/>
+
+		<timeline-button
+			title="1966"
+			description="Restoration and reconstruction began."
+			year="1966"
+			action-0="history:set-year"
+			action-0-argument-0="1966"
+		/>
+
+		<timeline-button
+			title="1966"
+			description="Upper Bluff area was placed on the National Register of Historic Places."
+			year="1966"
+			action-0="history:set-year"
+			action-0-argument-0="1966"
+		/>
+
+		<timeline-button
+			title="1969"
+			description="Historic Fort Snelling and the Chapel were deeded to the State of Minnesota."
+			year="1969"
+			action-0="history:set-year"
+			action-0-argument-0="1969"
+		/>
+
+		<timeline-button
+			title="1970"
+			description="Nearly half the original structures completed."
+			year="1970"
+			action-0="history:set-year"
+			action-0-argument-0="1970"
+		/>
+
+		<timeline-button
+			title="1971"
+			description="The U.S. Department of the Interior conveyed 141 acres of surplus Federal property known as the Upper Bluff area to the MnDNR exclusively for public park and recreational purposes in perpetuity. The quitclaim deed included restrictions that require the property to be developed and used according to the Program of Utilization submitted by the MnDNR as part of its application to acquire the property. The MnDNR incorporated the Upper Bluff area into Fort Snelling State Park."
+			year="1971"
+			action-0="history:set-year"
+			action-0-argument-0="1971"
+		/>
+
+		<timeline-button
+			title="1976"
+			description="The State designates the Mississippi River and its adjacent corridor within the metropolitan area a Critical Area."
+			year="1976"
+			action-0="history:set-year"
+			action-0-argument-0="1976"
+		/>
+
+		<timeline-button
+			title="1977"
+			description="An Act for Fort Snelling Officer's Row was signed"
+			year="1977"
+			action-0="history:set-year"
+			action-0-argument-0="1977"
+		/>
+
+		<timeline-button
+			title="1979"
+			description="The 1971 Utilization Plan was amended to allow for a concession for the golf course and proposed rehabilitation of Officer's Row and Area J. A concession agreement was signed with the Officer's Row Corporation to operate the golf course and Officer's Row. The Mississippi River Critical Area is permanently designated."
+			year="1979"
+			action-0="history:set-year"
+			action-0-argument-0="1979"
+		/>
+
+		<timeline-button
+			title="1988"
+			description="Congress designates the Mississppi River and recreational Area a unit for the national park system."
+			year="1988"
+			action-0="history:set-year"
+			action-0-argument-0="1988"
+		/>
+
+		<timeline-button
+			title="1991"
+			description="Authority for continued military occupation of Area J was extended for 4 years"
+			year="1991"
+			action-0="history:set-year"
+			action-0-argument-0="1991"
+		/>
+
+		<timeline-button
+			title="1991"
+			description="The Officer's Row Corporation's concession agreement was terminated by the Executive Council. The MnDNR issued a Request for Proposal for a new concessionaire for the golf course and Officer's Row buildings."
+			year="1991"
+			action-0="history:set-year"
+			action-0-argument-0="1991"
+		/>
+
+		<timeline-button
+			title="1992"
+			description="Minneapolis Park and Recreation Board became the concessionaire for the golf course and polo grounds."
+			year="1992"
+			action-0="history:set-year"
+			action-0-argument-0="1992"
+		/>
+
+		<timeline-button
+			title="1995"
+			description="The Comprehensive Management Plan for the Mississippi National River and Recreation Area is approved."
+			year="1995"
+			action-0="history:set-year"
+			action-0-argument-0="1995"
+		/>
+
+		<timeline-button
+			title="1997"
+			description="The Department of the Army vacated Area J. The reuse study for the Upper Bluff area formally began with the convening of a consultation team."
+			year="1997"
+			action-0="history:set-year"
+			action-0-argument-0="1997"
+		/>
+
+		<timeline-button
+			title="1998"
+			description="The Fort Snelling State Park Upper Bluff Reuse Study was completed and printed for distribution."
+			year="1998"
+			action-0="history:set-year"
+			action-0-argument-0="1998"
+		/>
+
+		<timeline-button
+			title="2001"
+			description="The Fort Snelling polo fields and parade grounds are converted to baseball and soccer fields."
+			year="2001"
+			action-0="history:set-year"
+			action-0-argument-0="2001"
+		/>
+
+		<timeline-button
+			title="2005"
+			description="The Preservation Alliance of Minnesota lists the post as one of the 10 most endangered places."
+			year="2005"
+			action-0="history:set-year"
+			action-0-argument-0="2005"
+		/>
+
+		<timeline-button
+			title="2006"
+			description="An update of the Reuse Study is initiated by Hennepin County. It includes an evaluation of the buildings and a new cost analysis. The National Trust for Historic Preservation lists Fort Snelling Upper Post as one of the 11 most endangered places."
+			year="2006"
+			action-0="history:set-year"
+			action-0-argument-0="2006"
+		/>
+
+		<timeline-button
+			title="2006 - 2007"
+			description="This site is conceived and created."
+			year="2006"
+			action-0="history:set-year"
+			action-0-argument-0="2006"
+		/>
+
+		<timeline-button
+			title="2008"
+			description="Landscape study is completed. Mothballing of the buildings continues in an effort to buy time until development issues are worked out."
+			year="2008"
+			action-0="history:set-year"
+			action-0-argument-0="2008"
+		/>
+
+		<timeline-button
+			title="2010"
+			description="Rear half of prison is rebuilt. Prison and headquarters are tuck pointed."
+			year="2010"
+			action-0="history:set-year"
+			action-0-argument-0="2010"
+		/>
+
+		<timeline-button
+			title="2011"
+			description="Hospital roof and floors are being rebuilt using a $1"
+			year="2011"
+			action-0="history:set-year"
+			action-0-argument-0="2011"
+		/>
+
+		<timeline-button
+			title="2011"
+			description="Tour book of Fort Snelling in WWII is published."
+			year="2011"
+			action-0="history:set-year"
+			action-0-argument-0="2011"
+		/>
+
+		<timeline-button
+			title="2011"
+			description="Boy Scouts complete their rehab of building 201 in October."
+			year="2011"
+			action-0="history:set-year"
+			action-0-argument-0="2011"
+		/>
+
+		<timeline-button
+			title="2012"
+			description="Joint powers agreement signed in December."
+			year="2012"
+			action-0="history:set-year"
+			action-0-argument-0="2012"
+		/>
+
+		<timeline-button
+			title="2014"
+			description="The VA and CommonBond start rehabilitation on five buildings for veteran housing."
+			year="2014"
+			action-0="history:set-year"
+			action-0-argument-0="2014"
+		/>
+
+		<timeline-button
+			title="2015"
+			description="The VA and CommonBond complete their rehabilitation project in June. Veterans start moving into the completed buildings in May."
+			year="2015"
+			action-0="history:set-year"
+			action-0-argument-0="2015"
+		/>
+
+		<timeline-button
+			title="2016"
+			description="The VA starts work on warehouse #222"
+			year="2016"
+			action-0="history:set-year"
+			action-0-argument-0="2016"
+		/>
+
+		<timeline-button
+			title="2017"
+			description="The Boy Scouts start construction on their new headquarters building next to the drill house."
+			year="2017"
+			action-0="history:set-year"
+			action-0-argument-0="2017"
+		/>
+
+		<timeline-button
+			title="2021"
+			description="Present day."
+			year="2021"
+			action-0="history:set-year"
+			action-0-argument-0="2021"
 		/>
 	</timeline>
 
 	<button
-		title="Source"
-		description="Minnesota Historical Society"
+		title="Source(s)"
 		action-0="application:open-url"
 		action-0-argument-0="http://collections.mnhs.org/MNHistoryMagazine/articles/42/v42i03p116-117.pdf"
+		action-1="application:open-url"
+		action-1-argument-0="http://www.upperpost.org/timeline.html"
 	/>
-
-
-	<!-- http://collections.mnhs.org/MNHistoryMagazine/articles/42/v42i03p116-117.pdf -->
-	<!-- http://www.upperpost.org/timeline.html -->
-	<!-- https://www.mnhs.org/fortsnelling/learn/military-history -->
 </page>
