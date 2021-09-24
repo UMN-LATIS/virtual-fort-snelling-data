@@ -9,7 +9,49 @@
 	
 	<title>Timeline</title>
 
-	<body>
-        Coming soon.
-    </body>
+	<timeline>
+		<timeline-button
+			year="1803"
+			title="1803"
+			description="President Thomas Jefferson purchased the vast Louisiana Territory from France."
+			action-0="history:set-year"
+			action-0-argument-0="1803"
+		/>
+
+		<timeline-button
+			year="1805"
+			title="1805"
+			description="Lieutenant Zebulon M. Pike selected the confluence of the Mississippi and St. Peter's (Minnesota) rivers as a likely location for the country's most northwestern military post."
+			action-0="history:set-year"
+			action-0-argument-0="1805"
+		/>
+
+		<timeline-button
+			year="1812"
+			title="1812 - 1815"
+			description="United States warred with England over mercantile rights on the seas and expansionist rights in the interior."
+			action-0="history:set-year"
+			action-0-argument-0="1812"
+		/>
+
+		<timeline-button
+			year="1817"
+			title="1817"
+			description="Major Stephen H. Long, topographical engineer, approved the site chosen by Pike, declaring it essential for controlling access into the north country."
+			action-0="history:set-year"
+			action-0-argument-0="1817"
+		/>
+	</timeline>
+
+	<button
+		title="Source"
+		description="Minnesota Historical Society"
+		action-0="application:open-url"
+		action-0-argument-0="http://collections.mnhs.org/MNHistoryMagazine/articles/42/v42i03p116-117.pdf"
+	/>
+
+
+	<!-- http://collections.mnhs.org/MNHistoryMagazine/articles/42/v42i03p116-117.pdf -->
+	<!-- http://www.upperpost.org/timeline.html -->
+	<!-- https://www.mnhs.org/fortsnelling/learn/military-history -->
 </page>
