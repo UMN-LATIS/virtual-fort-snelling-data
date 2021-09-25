@@ -9,7 +9,10 @@
 	
 	<title>Timeline</title>
 
-	<timeline>		
+	<timeline>
+		<!-- TODO: include more native american histories from pre-1800s in this list -->
+
+		<!--  TODO: go through these and sort which are really worth including -->
 		<timeline-button
 			title="1803"
 			description="President Thomas Jefferson purchased the vast Louisiana Territory from France."
@@ -760,6 +763,14 @@
 			year="2017"
 			action-0="history:set-year"
 			action-0-argument-0="2017"
+		/>
+
+		<timeline-button
+			title="2021"
+			description="Present day."
+			year="2021"
+			action-0="history:set-year"
+			action-0-argument-0="2021"
 		/>
 	</timeline>
 </page>
