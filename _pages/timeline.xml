@@ -108,7 +108,7 @@
 
 		<timeline-button
 			title="1823"
-			description="First Minnesota school with a regular teacher conducted at the fort by John Marsh for 10 area children. Count Giacomo C. Beltrami  Italian gentleman searching for the source of the Mississippi  arrived at the fort on the first steamboat to navigate upriver  the "Virginia.""
+			description="First Minnesota school with a regular teacher conducted at the fort by John Marsh for 10 area children. Count Giacomo C. Beltrami  Italian gentleman searching for the source of the Mississippi  arrived at the fort on the first steamboat to navigate upriver  the 'Virginia.'"
 			year="1823"
 			action-0="history:set-year"
 			action-0-argument-0="1823"
@@ -116,7 +116,7 @@
 
 		<timeline-button
 			title="1824"
-			description="Major General Winfield Scott inspected the completed limestone post  recommending that it be renamed "Fort Snelling" In honor of its resourceful commandant."
+			description="Major General Winfield Scott inspected the completed limestone post  recommending that it be renamed 'Fort Snelling' In honor of its resourceful commandant."
 			year="1824"
 			action-0="history:set-year"
 			action-0-argument-0="1824"
@@ -132,7 +132,7 @@
 
 		<timeline-button
 			title="1828"
-			description="Southern-born Zachary Taylor  destined to become thirtieth president of the United States  commanded the post but found the country "miserable and uninteresting.""
+			description="Southern-born Zachary Taylor  destined to become thirtieth president of the United States  commanded the post but found the country 'miserable and uninteresting.'"
 			year="1828"
 			action-0="history:set-year"
 			action-0-argument-0="1828"
@@ -164,7 +164,7 @@
 
 		<timeline-button
 			title="1835"
-			description="First Protestant church in Minnesota was organized at the fort with a congregation of 21. George Catlin  famed painter of North American Indians  visited the fort  suggesting the possibility of "Fashionable Tours" from the East into Minnesota. Geologists George W. Featherstonhaugh and William W. Mather paused at the fort before advancing up the "Minnay Sotor" River In search of the legendary copper deposits of the Blue Earth region. "
+			description="First Protestant church in Minnesota was organized at the fort with a congregation of 21. George Catlin  famed painter of North American Indians  visited the fort  suggesting the possibility of 'Fashionable Tours' from the East into Minnesota. Geologists George W. Featherstonhaugh and William W. Mather paused at the fort before advancing up the 'Minnay Sotor' River In search of the legendary copper deposits of the Blue Earth region."
 			year="1835"
 			action-0="history:set-year"
 			action-0-argument-0="1835"
@@ -188,7 +188,7 @@
 
 		<timeline-button
 			title="1837"
-			description="Mrs. Alexander Hamilton  widow of the distinguished statesman who lost his life in a duel with Aaron Burr  visited the fort on a "Fashionable Tour" and was honored with a tea. A treaty signed with the Chippewa at Fort Snelling officially opened the first Minnesota land to settlement."
+			description="Mrs. Alexander Hamilton  widow of the distinguished statesman who lost his life in a duel with Aaron Burr  visited the fort on a 'Fashionable Tour' and was honored with a tea. A treaty signed with the Chippewa at Fort Snelling officially opened the first Minnesota land to settlement."
 			year="1837"
 			action-0="history:set-year"
 			action-0-argument-0="1837"
@@ -732,7 +732,7 @@
 
 		<timeline-button
 			title="2014"
-			description="The VA & CommonBond start rehabilitation on five buildings for veteran housing."
+			description="The VA and CommonBond start rehabilitation on five buildings for veteran housing."
 			year="2014"
 			action-0="history:set-year"
 			action-0-argument-0="2014"
@@ -740,7 +740,7 @@
 
 		<timeline-button
 			title="2015"
-			description="The VA & CommonBond complete their rehabilitation project in June. Veterans start moving into the completed buildings in May."
+			description="The VA and CommonBond complete their rehabilitation project in June. Veterans start moving into the completed buildings in May."
 			year="2015"
 			action-0="history:set-year"
 			action-0-argument-0="2015"
