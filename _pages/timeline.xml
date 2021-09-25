@@ -696,15 +696,7 @@
 
 		<timeline-button
 			title="2011"
-			description="Hospital roof and floors are being rebuilt using a $1,000,000 appropriation from the state bonding bill."
-			year="2011"
-			action-0="history:set-year"
-			action-0-argument-0="2011"
-		/>
-
-		<timeline-button
-			title="2011"
-			description="Boy Scouts complete their rehab of building 201 in October."
+			description="Hospital roof and floors are being rebuilt using a $1,000,000 appropriation from the state bonding bill. Boy Scouts complete their rehab of building 201 in October."
 			year="2011"
 			action-0="history:set-year"
 			action-0-argument-0="2011"
