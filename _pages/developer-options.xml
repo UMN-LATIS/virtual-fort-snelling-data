@@ -12,15 +12,16 @@
     <body>I wouldn't linger here unless you know what you're doing!</body>
 
     <button
-        title="Properties Overlay"
-        description="Toggle the display of various properties for debugging purposes"
-        action-0="developer:toggle-info"
+        title="Message Log"
+        description="See any errors, warnings, or messages logged by the app"
+        action-0="menu:next-page"
+        action-0-argument-0="reserved-log"
     />
 
     <button
-        title="Console Overlay"
-        description="Log errors, warnings, and messages to the screen"
-        action-0="developer:toggle-console"
+        title="Properties Overlay"
+        description="Toggle the display of various properties for debugging purposes"
+        action-0="developer:toggle-info"
     />
 
     <button

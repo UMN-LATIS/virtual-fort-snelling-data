@@ -23,7 +23,7 @@
     
     <button
         title="Developer Options"
-        description=""
+        description="Various technical levers and knobs"
         action-0="menu:next-page"
         action-0-argument-0="developer-options"
     />
