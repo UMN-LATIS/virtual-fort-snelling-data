@@ -1,0 +1,8 @@
+---
+# empty front-matter to force jekyll processing
+---
+<landmark page="commanders-house">
+	<historicalobject id="commanders-house-original" />
+	<historicalobject id="commanders-house-porch" />
+	<historicalobject id="commanders-house-remodel" />
+</landmark>

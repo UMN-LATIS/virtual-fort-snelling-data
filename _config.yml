@@ -13,18 +13,5 @@ collections:
         output: true
     historicalobjects:
         output: true
-
-# Collection defaults.
-defaults:
--
-    scope:
-        path: "_posts"
-        type: "posts"
--
-    scope:
-        path: "_pages"
-        type: "pages"
--
-    scope:
-        path: "_historicalobjects"
-        type: "historicalobjects"
+    landmarks:
+        output: true

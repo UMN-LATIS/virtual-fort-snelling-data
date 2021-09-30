@@ -2,4 +2,5 @@
 # empty front matter to force jekyll processing
 # DO NOT MODIFY THIS FILE!
 ---
-{{ site.time }}
+{% for page in site.pages %}{{ page.url }}
+{% endfor %}

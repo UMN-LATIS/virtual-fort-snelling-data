@@ -1,0 +1,7 @@
+---
+# empty front-matter to force jekyll processing
+---
+<landmark page="half-moon-battery">
+	<historicalobject id="half-moon-battery" />
+	<historicalobject id="half-moon-battery-roof" />
+</landmark>
