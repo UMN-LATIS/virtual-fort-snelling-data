@@ -19,7 +19,7 @@
     <button
         action-0="menu:next-page"
         action-0-argument-0="diamond-area"
-        title="The Diamond Area"
+        title="Diamond Area"
         description=""
     />
 

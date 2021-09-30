@@ -1,0 +1,16 @@
+---
+# empty front-matter to force jekyll processing
+---
+<landmark page="southwest-barracks">
+	<historicalobject id="southwest-barracks" />
+	<historicalobject id="southwest-barracks-lone-shed" />
+	<historicalobject id="southwest-barracks-sheds-0" />
+	<historicalobject id="southwest-barracks-sheds-1" />
+	<historicalobject id="southwest-barracks-sheds-2" />
+	<historicalobject id="southwest-barracks-sheds-3" />
+	<historicalobject id="southwest-barracks-sheds-4" />
+	<historicalobject id="southwest-barracks-sheds-5" />
+	<historicalobject id="southwest-barracks-sheds-6" />
+	<historicalobject id="southwest-barracks-sheds-7" />
+	<historicalobject id="southwest-barracks-sheds-8" />
+</landmark>
