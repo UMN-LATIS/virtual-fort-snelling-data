@@ -38,14 +38,10 @@
 
     <divider />
 
+    <!-- NOTE: this page is built into the app, not declared here in the data repo. -->
     <button
         title="Options"
         action-0="menu:next-page"
-        action-0-argument-0="options"
+        action-0-argument-0="reserved-options"
     />
-
-    <!-- <button
-        title="Resume"
-        action-0="menu:close"
-    /> -->
 </page>

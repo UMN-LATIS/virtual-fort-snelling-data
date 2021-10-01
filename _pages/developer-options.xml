@@ -1,6 +1,4 @@
----
-# empty front matter to force jekyll processing
----
+<!--
 <page>
 	<icon-button
 		action-0="menu:previous-page"
@@ -43,4 +41,4 @@
         action-0="developer:refresh-content"
         action-0-argument-0=""
     />
-</page>
+</page> -->
