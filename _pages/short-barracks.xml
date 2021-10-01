@@ -9,6 +9,19 @@
 	
 	<title>Stone Barracks</title>
 
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="116.2738"
+		action-1-argument-1="30.5186"
+		action-1-argument-2="244.812"
+		action-1-argument-3="0.9422694"
+		action-1-argument-4="0.3190464"
+		action-1-argument-5="0.3868197"
+	/>
+
 	<timeline
         title="Timeline"
         description=""

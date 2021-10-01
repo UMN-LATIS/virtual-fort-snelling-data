@@ -9,6 +9,19 @@
 	
 	<title>Mendota Bridge</title>
 
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="221.08"
+		action-1-argument-1="29.39"
+		action-1-argument-2="-212.1659"
+		action-1-argument-3="0.93355"
+		action-1-argument-4="0.1464"
+		action-1-argument-5="0.71705"
+	/>
+
 	<timeline
         title="Timeline"
         description=""

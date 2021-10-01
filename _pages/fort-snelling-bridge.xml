@@ -9,6 +9,19 @@
 	
 	<title>Fort Snelling Bridge</title>
 
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="212.02"
+		action-1-argument-1="28.6163"
+		action-1-argument-2="376.131"
+		action-1-argument-3="-0.3686"
+		action-1-argument-4="0.1154"
+		action-1-argument-5="0.9465"
+	/>
+
 	<timeline
         title="Timeline"
         description=""

@@ -9,6 +9,19 @@
 	
 	<title>Wood Barracks</title>
 
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="176.3711"
+		action-1-argument-1="30.17934"
+		action-1-argument-2="235.88"
+		action-1-argument-3="0.07712"
+		action-1-argument-4="0.2478"
+		action-1-argument-5="0.475377"
+	/>
+
 	<timeline
         title="Timeline"
         description=""

@@ -8,6 +8,19 @@
 	/>
 	
 	<title>Commander's House</title>
+	
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="192.1985"
+		action-1-argument-1="30.20"
+		action-1-argument-2="205.607"
+		action-1-argument-3="0.25627"
+		action-1-argument-4="0.22058"
+		action-1-argument-5="0.11437"
+	/>
 
 	<timeline
         title="Timeline"

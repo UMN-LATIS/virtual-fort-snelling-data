@@ -9,6 +9,19 @@
 	
 	<title>Officer's Quarters</title>
 
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="174.5015"
+		action-1-argument-1="30.24778"
+		action-1-argument-2="178.7187"
+		action-1-argument-3="0.459056"
+		action-1-argument-4="0.302155"
+		action-1-argument-5="0.65035"
+	/>
+
 	<timeline
         title="Timeline"
         description=""

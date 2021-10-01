@@ -9,6 +9,19 @@
 	
 	<title>Building 18</title>
 
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="-123.92"
+		action-1-argument-1="31.57"
+		action-1-argument-2="251.68"
+		action-1-argument-3="-0.0011"
+		action-1-argument-4="0.20761"
+		action-1-argument-5="0.40026"
+	/>
+
     <timeline
         title="Timeline"
         description=""
