@@ -9,6 +9,19 @@
     
     <title>Bdote</title>
     
+	<button
+		title="Visit"
+		action-0="player:set-mode"
+		action-0-argument-0="overview"
+		action-1="player:teleport"
+		action-1-argument-0="2255.395"
+		action-1-argument-1="3.5324"
+		action-1-argument-2="589.3583"
+		action-1-argument-3="0.6784"
+		action-1-argument-4="0.22644"
+		action-1-argument-5="0.9868"
+	/>
+
     <subtitle>
         The confluence of the Minnesota and Mississippi rivers is one of the most historically significant landscapes in Minnesota,
         known to many Dakota people as Bdote. It is a place where rivers and people have come together for at least 10,000 years.

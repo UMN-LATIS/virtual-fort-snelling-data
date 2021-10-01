@@ -14,12 +14,12 @@
 		action-0="player:set-mode"
 		action-0-argument-0="overview"
 		action-1="player:teleport"
-		action-1-argument-0="?"
-		action-1-argument-1="?"
-		action-1-argument-2="?"
-		action-1-argument-3="?"
-		action-1-argument-4="?"
-		action-1-argument-5="?"
+		action-1-argument-0="61.75"
+		action-1-argument-1="31.28"
+		action-1-argument-2="231.244"
+		action-1-argument-3="0.88930"
+		action-1-argument-4="0.178654"
+		action-1-argument-5="0.11955"
 	/>
 
 	<timeline
