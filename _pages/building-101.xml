@@ -13,6 +13,12 @@
         title="Timeline"
         description=""
         collapsible="true"
+		action-0="player:teleport"
+		action-0-argument-0="-621.39"
+		action-0-argument-1="33.03"
+		action-0-argument-2="-457.28"
+		action-0-argument-3="0.73"
+		action-0-argument-4="115.64"
     >
 		<timeline-button
 			year="1888"

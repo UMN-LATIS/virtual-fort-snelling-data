@@ -13,6 +13,12 @@
         title="Timeline"
         description=""
         collapsible="true"
+		action-0="player:teleport"
+		action-0-argument-0="-722.10"
+		action-0-argument-1="32.93"
+		action-0-argument-2="-663.34"
+		action-0-argument-3="-8.22"
+		action-0-argument-4="113.40"
     >
 		<timeline-button
 			year="1888"
@@ -20,6 +26,14 @@
 			description="Construction completed."
 			action-0="history:set-year"
 			action-0-argument-0="1888"
+		/>
+
+		<timeline-button
+			year="1944"
+			title="1944"
+			description="Military Intelligence Service Language School established."
+			action-0="history:set-year"
+			action-0-argument-0="1944"
 		/>
 	</timeline>
 
