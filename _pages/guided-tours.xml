@@ -9,7 +9,13 @@
 	
 	<title>Guided Tours</title>
 
-	<body>
-        Coming soon.
-    </body>
+	<button
+        title="Sakpedan, Wakanozanzan, and Pryor"
+		description=""
+        action-0="menu:next-page"
+        action-0-argument-0="tour-prison"
+		action-1="history:set-year"
+		action-1-argument-0="1865"
+    />
+	<!-- TODO: add teleport and set year functionality to the button above -->
 </page>

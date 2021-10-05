@@ -1,0 +1,77 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+
+	<icon-button
+		action-0="menu:previous-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+
+	<title>Sakpedan, Wakanozanzan, and Pryor</title>
+
+    <body>
+        Construction of this prison commenced in late 1864, when the fort commander ____ wrote to the War Department that he had concerns
+        about housing violent criminals with those who were imprisoned for petty offenses in the guardhouse. It is likely that he was
+        engaging in racial profiling with this argument. Two of the earliest occupants of this prison were Sakpedan and Wakanozanzan,
+        known in the media as Shakopee and Medicine Bottle. These men had fled to Canada at the end of the US-Dakota War in 1862, probably
+        guessing that there would be no justice for them here in their homeland. If this was so, they were correct. US military men had
+        drugged them and transported them to Fort Snelling where they stood accused of war crimes. But as members of a sovereign nation
+        (recognized by a treaty with the US), did the military have the right to try them?
+    </body>
+
+    <image
+        src="/assets/tour-prison/chief-shakopee-III.jpg"
+        title="Sakpedan"
+    />
+
+    <image
+        src="/assets/tour-prison/wakan-ozanzan.jpg"
+        title="Wakanozanzan"
+    />
+
+    <image
+        src="/assets/tour-prison/building-14-plan.jpg"
+        title="Prison Floor Plan"
+    />
+
+    <body>
+        Local newspapers depicted Sakpedan and Wakanozanzan in ugly, racially stereotyped terms. This was especially evident compared to
+        their depiction of another prisoner, John Pryor, an enlisted Irish immigrant incarcerated for killing one of his fellow soldiers.
+        All three men were sentenced to be executed. The Saint Paul Pioneer described Pryor as in a pitiable state, and that his crime was
+        the result of inflamed passions and alcohol. In the same issue, Sakpedan and Wakanozanzan were described as being resigned to their
+        fate, and murderers. Concerned citizens circulated petitions to commute the execution sentences of all three men, but only Pryor was
+        successful. On November 11th, 1865, Sakpedan and Wakanozanzan were executed within sight of this prison.
+    </body>
+
+    <body>
+        How do we remember Sakpedan and Wakanozanzan? Their descendants see them as men who fought to protect their families and communities,
+        and are devastated that the public record depicts them as criminals. Read these examples from historic newspapers, and consider how
+        racialized stereotypes are circulated and reproduced in the media today.
+    </body>
+
+    <image
+        src="/assets/tour-prison/1865-10-8-executions-set.png"
+        title="Executions Set"
+    />
+
+    <image
+        src="/assets/tour-prison/1865-10-11-executions-postponed.png"
+        title="Executions Postponed"
+    />
+
+    <gallery
+        src="/assets/tour-prison/1865-10-14-defense-letter-page1.png"
+        title="A Letter in Defense of the Prisoners"
+    >
+        <gallery-image
+            src="/assets/tour-prison/1865-10-14-defense-letter-page1.png"
+        />
+        <gallery-image
+            src="/assets/tour-prison/1865-10-14-defense-letter-page2.png"
+        />
+        <gallery-image
+            src="/assets/tour-prison/1865-10-14-defense-letter-page3.png"
+        />
+    </gallery>
+</page>
