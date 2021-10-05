@@ -51,4 +51,11 @@
 			action-0-argument-0="1972"
 		/>
 	</timeline>
+
+	<button
+		title="Learn More"
+		description="Learn more about the prison and it's occupants in a virtual guided tour"
+		action-0="menu:next-page"
+		action-0-argument-0="guided-tours"
+	/>
 </page>
