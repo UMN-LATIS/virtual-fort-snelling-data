@@ -16,13 +16,6 @@
     />
 
     <button
-        title="Timeline"
-        description=""
-        action-0="menu:next-page"
-        action-0-argument-0="timeline"
-    />
-
-    <button
         action-0="menu:next-page"
         action-0-argument-0="landmarks"
         title="Landmarks"
