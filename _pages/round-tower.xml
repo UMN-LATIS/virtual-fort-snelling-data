@@ -2,6 +2,11 @@
 # empty front matter to force jekyll processing
 ---
 <page>
+	<!--
+		NOTE: this file is referenced when a user clicks on the
+		corresponding mesh in application, so DO NOT rename it.
+	-->
+    
 	<icon-button
 		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"
