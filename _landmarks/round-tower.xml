@@ -1,9 +1,0 @@
----
-# empty front-matter to force jekyll processing
----
-<landmark page="round-tower">
-	<historicalobject id="round-tower-original" />
-	<historicalobject id="round-tower-merlons" />
-	<historicalobject id="round-tower-roof" />
-	<historicalobject id="round-tower-railing" />
-</landmark>

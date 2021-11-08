@@ -1,6 +1,0 @@
----
-# empty front-matter to force jekyll processing
----
-<landmark page="cemetery">
-	<historicalobject id="cemetery" />
-</landmark>
