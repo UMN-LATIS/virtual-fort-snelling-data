@@ -3,8 +3,8 @@
 ---
 <page>
 	<button
-        title="Previous"
-        description="3/4 Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
+        title="Previous (3/4)"
+        description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
         action-0="menu:previous-page"
     />
 
@@ -31,9 +31,16 @@
         src="/assets/tour-dakota-war/poster.jpg"
     />
 
+    <!--
+        NOTE: must go to menu first, and then back to tour main page
+        (this is so that users who click back from the tour page don't
+        go to page 4, but rather back to the main menu)
+    -->
     <button
         title="Finish"
         action-0="menu:next-page"
         action-0-argument-0="main-menu"
+        action-1="menu:next-page"
+        action-1-argument-0="tour-dakota-war-intro"
     />
 </page>

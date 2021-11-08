@@ -32,8 +32,8 @@
     />
 
     <button
-        title="Next"
-        description="2/4 Incarceration and Exile"
+        title="Next (2/4)"
+        description="Incarceration and Exile"
         action-0="menu:next-page"
         action-0-argument-0="tour-dakota-war-1"
     />

@@ -15,8 +15,8 @@
     action-2-argument-5="0.38760627"
 >
 	<button
-        title="Previous"
-        description="2/4 Incarceration and Exile"
+        title="Previous (2/4)"
+        description="Incarceration and Exile"
         action-0="menu:previous-page"
     />
 
@@ -96,8 +96,8 @@
     
 
     <button
-        title="Next"
-        description="4/4 Dakhota Omniciye – Truth-telling Today"
+        title="Next (4/4)"
+        description="Dakhota Omniciye – Truth-telling Today"
         action-0="menu:next-page"
         action-0-argument-0="tour-dakota-war-3"
     />

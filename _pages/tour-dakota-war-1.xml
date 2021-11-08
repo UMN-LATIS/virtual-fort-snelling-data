@@ -3,8 +3,8 @@
 ---
 <page>
 	<button
-        title="Previous"
-        description="1/4 A Failed Commitment"
+        title="Previous (1/4)"
+        description="A Failed Commitment"
         action-0="menu:previous-page"
     />
 
@@ -30,8 +30,8 @@
     />
 
     <button
-        title="Next"
-        description="3/4 Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
+        title="Next (3/4)"
+        description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
         action-0="menu:next-page"
         action-0-argument-0="tour-dakota-war-2"
     />
