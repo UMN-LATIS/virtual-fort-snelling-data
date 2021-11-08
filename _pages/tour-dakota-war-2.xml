@@ -15,12 +15,12 @@
     action-2-argument-5="0.38760627"
 >
 	<button
-        title="Previous (2/4)"
+        title="Previous"
         description="Incarceration and Exile"
         action-0="menu:previous-page"
     />
 
-	<subtitle>3/4</subtitle>
+	<!-- <subtitle>3/4</subtitle> -->
     
     <title>Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution</title>
 
@@ -96,7 +96,7 @@
     
 
     <button
-        title="Next (4/4)"
+        title="Next"
         description="Dakhota Omniciye – Truth-telling Today"
         action-0="menu:next-page"
         action-0-argument-0="tour-dakota-war-3"

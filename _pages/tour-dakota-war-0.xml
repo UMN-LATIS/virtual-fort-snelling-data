@@ -8,7 +8,7 @@
 		src="/assets/icons/icon_arrow_left.png"
 	/>
 
-	<subtitle>1/4</subtitle>
+	<!-- <subtitle>1/4</subtitle> -->
 
     <title>A Failed Commitment</title>
 
@@ -32,7 +32,7 @@
     />
 
     <button
-        title="Next (2/4)"
+        title="Next"
         description="Incarceration and Exile"
         action-0="menu:next-page"
         action-0-argument-0="tour-dakota-war-1"

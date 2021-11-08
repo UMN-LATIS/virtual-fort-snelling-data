@@ -3,12 +3,12 @@
 ---
 <page>
 	<button
-        title="Previous (1/4)"
+        title="Previous"
         description="A Failed Commitment"
         action-0="menu:previous-page"
     />
 
-	<subtitle>2/4</subtitle>
+	<!-- <subtitle>2/4</subtitle> -->
 
     <title>Incarceration and Exile</title>
     
@@ -30,7 +30,7 @@
     />
 
     <button
-        title="Next (3/4)"
+        title="Next"
         description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
         action-0="menu:next-page"
         action-0-argument-0="tour-dakota-war-2"

@@ -3,12 +3,12 @@
 ---
 <page>
 	<button
-        title="Previous (3/4)"
+        title="Previous"
         description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
         action-0="menu:previous-page"
     />
 
-	<subtitle>4/4</subtitle>
+	<!-- <subtitle>4/4</subtitle> -->
 
     <title>Dakhota Omniciye – Truth-telling Today</title>  
 
