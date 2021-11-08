@@ -1,0 +1,37 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<button
+        title="Previous"
+        description="3/4 Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
+        action-0="menu:previous-page"
+    />
+
+	<title>4/4 Dakhota Omniciye – Truth-telling Today</title>
+
+    <body>
+        In 2010, MNHS began collecting oral histories from descendants of families impacted by the war,
+        both Dakota and settler. Dakota people have spoken of the long-lasting legacy of the war still with
+        them, from the dispersal of communities and families, to separation from homelands, and the ongoing
+        stigma given to their ancestors for their actions. As Dr. Clifford Canku noted, "They were implicated
+        for being Dakota. Just being Dakota means that you were guilty before any consideration of being innocent."
+    </body>
+
+    <body>
+        In 2017, MNHS in partnership with Dakota communities in Minnesota began holding an annual Dakhóta Omníčiye,
+        a gathering and truth-telling event, here at Historic Fort Snelling at Bdote. It has been an opportunity for
+        Dakota people to reconnect with this place which holds so much important history, and to tell that history
+        from their own perspective.
+    </body>
+
+    <image
+        src="/assets/tour-dakota-war/poster.jpg"
+    />
+
+    <button
+        title="Finish"
+        action-0="menu:next-page"
+        action-0-argument-0="main-menu"
+    />
+</page>
