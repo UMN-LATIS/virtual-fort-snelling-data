@@ -1,0 +1,39 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<icon-button
+		action-0="menu:previous-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+
+	<title>The US-Dakota War of 1862 and its Legacies</title>
+
+    <button
+        title="1/4"
+        description="A Failed Commitment"
+        action-0="menu:next-page"
+        action-0-argument-0="tour-dakota-war-0"
+    />
+
+    <button
+        title="2/4"
+        description="Incarceration and Exile"
+        action-0="menu:next-page"
+        action-0-argument-0="tour-dakota-war-1"
+    />
+
+    <button
+        title="3/4"
+        description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
+        action-0="menu:next-page"
+        action-0-argument-0="tour-dakota-war-0"
+    />
+
+    <button
+        title="4/4"
+        description="Dakhota Omniciye – Truth-telling Today"
+        action-0="menu:next-page"
+        action-0-argument-0="tour-dakota-war-0"
+    />
+</page>

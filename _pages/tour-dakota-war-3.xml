@@ -1,0 +1,58 @@
+---
+# empty front matter to force jekyll processing
+---
+<page
+    action-0="history:set-year"
+    action-0-argument-0="1862"
+    action-1="player:set-mode"
+    action-1-argument-0="first-person"
+    action-2="player:teleport"
+    action-2-argument-0="202.2774"
+    action-2-argument-1="31.98027"
+    action-2-argument-2="205.2931"
+    action-2-argument-3="0.753397"
+    action-2-argument-4="0.4586216"
+    action-2-argument-5="0.5"
+>
+	<button
+        title="Previous"
+        description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
+        action-0="menu:previous-page"
+    />
+
+	<!-- <subtitle>4/4</subtitle> -->
+
+    <title>Dakhota Omniciye – Truth-telling Today</title>  
+
+    <body>
+        In 2010, MNHS began collecting oral histories from descendants of families impacted by the war,
+        both Dakota and settler. Dakota people have spoken of the long-lasting legacy of the war still with
+        them, from the dispersal of communities and families, to separation from homelands, and the ongoing
+        stigma given to their ancestors for their actions. As Dr. Clifford Canku noted, "They were implicated
+        for being Dakota. Just being Dakota means that you were guilty before any consideration of being innocent."
+    </body>
+
+    <body>
+        In 2017, MNHS in partnership with Dakota communities in Minnesota began holding an annual Dakhóta Omníčiye,
+        a gathering and truth-telling event, here at Historic Fort Snelling at Bdote. It has been an opportunity for
+        Dakota people to reconnect with this place which holds so much important history, and to tell that history
+        from their own perspective.
+    </body>
+
+    <image
+        src="/assets/tour-dakota-war/poster.jpg"
+    />
+
+    <!--
+        NOTE: must go to menu first, and then back to tour main page
+        (this is so that users who click back from the tour page don't
+        go to page 4, but rather back to the main menu)
+    -->
+    <button
+        title="Finish"
+        action-0="menu:next-page"
+        action-0-argument-0="main-menu"
+        action-1="menu:next-page"
+        action-1-argument-0="tour-dakota-war-intro"
+    />
+</page>

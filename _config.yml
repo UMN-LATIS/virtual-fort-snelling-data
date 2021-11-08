@@ -11,7 +11,3 @@ email: "aisos@umn.edu"
 collections:
     pages:
         output: true
-    historicalobjects:
-        output: true
-    landmarks:
-        output: true

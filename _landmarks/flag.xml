@@ -1,7 +1,0 @@
----
-# empty front-matter to force jekyll processing
----
-<landmark page="flag">
-	<historicalobject id="flag-original" />
-	<historicalobject id="flag-round-tower-roof" />
-</landmark>

@@ -1,0 +1,52 @@
+---
+# empty front matter to force jekyll processing
+---
+<page
+    action-0="history:set-year"
+    action-0-argument-0="1862"
+    action-1="player:set-mode"
+    action-1-argument-0="first-person"
+    action-2="player:teleport"
+    action-2-argument-0="66.23753"
+    action-2-argument-1="30.87392"
+    action-2-argument-2="163.7924"
+    action-2-argument-3="0.10815"
+    action-2-argument-4="0.42914"
+    action-2-argument-5="0.5"
+>
+
+	<icon-button
+		action-0="menu:previous-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+
+	<!-- <subtitle>1/4</subtitle> -->
+
+    <title>A Failed Commitment</title>
+
+    <subtitle>
+        What caused the war of 1862?
+    </subtitle>
+    
+    <body>
+       The US government had pressured Dakhota leaders to sign a series of treaties to take more and more land, successively restricting Dakhota to smaller reservations.
+       In return the government committed to provide money and supplies to support the people, because their small reservations had no game to hunt.
+       But the payments and supplies were slow to be delivered, or did not arrive at all, and in 1862 the people were starving.
+    </body>
+    <body>
+       As Dakhota leader Little Crow/Taoyateduta said, "We have waited a long time. The money is ours but we cannot get it. We have no food but here these stores are filled with food. We ask that you, the agent, make some arrangement so we can get food from the stores, or else we may take our own way to keep ourselves from starving. When men are hungry, they help themselves."
+       In August of that year, some Dakota resorted to violence out of desperation.
+    </body>
+
+    <image
+        src="/assets/tour-dakota-war/little-crow.jpg"
+        title="Taoyateduta, or Little Crow"
+    />
+
+    <button
+        title="Next"
+        description="Incarceration and Exile"
+        action-0="menu:next-page"
+        action-0-argument-0="tour-dakota-war-1"
+    />
+</page>
