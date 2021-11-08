@@ -9,7 +9,7 @@
 	
 	<title>Guided Tours</title>
 
-	<button
+	<!-- <button
         title="Sakpedan, Wakanozanzan, and Pryor"
 		description=""
         action-0="menu:next-page"
@@ -25,5 +25,11 @@
 		action-3-argument-3="0.06205099"
 		action-3-argument-4="0.3380027"
 		action-3-argument-5="0.38760627"
+    /> -->
+	<button
+        title="The US-Dakota War of 1862 and it's Legacies"
+		description=""
+        action-0="menu:next-page"
+        action-0-argument-0="tour-dakota-war-intro"
     />
 </page>
