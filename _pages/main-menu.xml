@@ -37,4 +37,11 @@
         action-0="menu:next-page"
         action-0-argument-0="reserved-options"
     />
+
+    <button
+        platform="desktop"
+        style="negative"
+        title="Quit"
+        action-0="application:quit"
+    />
 </page>
