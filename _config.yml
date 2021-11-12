@@ -11,3 +11,5 @@ email: "aisos@umn.edu"
 collections:
     pages:
         output: true
+    tooltips:
+        output: true
