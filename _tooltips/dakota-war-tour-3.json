@@ -6,6 +6,5 @@
     "py": 32.53,
     "pz": 210,
     "title": "Tour – The US-Dakota War of 1862 and its Legacies",
-    "action-0": "menu:next-page",
-    "action-0-argument-0": "tour-dakota-war-intro"
+    "menu-page-id": "tour-dakota-war-intro"
 }
