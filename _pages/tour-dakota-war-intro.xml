@@ -1,7 +1,9 @@
 ---
 # empty front matter to force jekyll processing
 ---
-<page>
+<page
+    action-0="tooltips:disable-on-page"
+>
 	<icon-button
 		action-0="menu:previous-page"
 		src="/assets/icons/icon_arrow_left.png"

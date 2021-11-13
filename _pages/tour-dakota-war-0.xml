@@ -13,6 +13,7 @@
     action-2-argument-3="0.10815"
     action-2-argument-4="0.42914"
     action-2-argument-5="0.5"
+    action-3="tooltips:disable-on-page"
 >
 
 	<icon-button

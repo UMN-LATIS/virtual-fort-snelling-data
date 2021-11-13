@@ -13,6 +13,7 @@
     action-2-argument-3="0.2526493"
     action-2-argument-4="0.27566"
     action-2-argument-5="0.2570136"
+    action-3="tooltips:disable-on-page"
 >
 	<button
         title="Previous"
