@@ -34,26 +34,29 @@
     >
 		<timeline-button
 			year="1865"
-			title="1865"
+			title="1865 CE"
 			description="Construction completed."
 			action-0="history:set-year"
 			action-0-argument-0="1865"
+			action-0-argument-1="1865 CE"
 		/>
 
 		<timeline-button
 			year="1904"
-			title="1904"
+			title="1904 CE"
 			description="Remodeled and covered in stucco."
 			action-0="history:set-year"
 			action-0-argument-0="1904"
+			action-0-argument-1="1904 CE"
 		/>
 
 		<timeline-button
 			year="1972"
-			title="1972"
+			title="1972 CE"
 			description="Demolished."
 			action-0="history:set-year"
 			action-0-argument-0="1972"
+			action-0-argument-1="1972 CE"
 		/>
 	</timeline>
 

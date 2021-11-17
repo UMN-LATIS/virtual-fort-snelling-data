@@ -34,18 +34,20 @@
     >
 		<timeline-button
 			year="1839"
-			title="1839"
+			title="1839 CE"
 			description="Operation begins."
 			action-0="history:set-year"
 			action-0-argument-0="1839"
+			action-0-argument-1="1839 CE"
 		/>
 
 		<timeline-button
 			year="1925"
-			title="1925"
+			title="1925 CE"
 			description="Operation ceases."
 			action-0="history:set-year"
 			action-0-argument-0="1925"
+			action-0-argument-1="1925 CE"
 		/>
 	</timeline>
 </page>

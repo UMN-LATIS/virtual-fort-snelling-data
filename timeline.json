@@ -2,113 +2,158 @@
     "timeline":
     [
         {
-            "year": -8000,
-            "displayYear": "9,000 to 12,000 years ago",
-            "label": "Evidence of human activity."
+            "year": -12000,
+            "displayYear": "The time of the glaciers",
+            "label": "Before 14,000 years ago this landscape was covered in glaciers. As they melted and receded to the north, they left behind the lakes and rivers that give this land its Dakota name - Mni Sota Makoce, 'the land where the waters are so clear they reflect the sky.'"
         },
         {
-            "year": 1600,
-            "displayYear": "~1600",
-            "label": "Two Native American groups emerge around the area: the Dakota and the Ojibwe."
+            "year": -12000,
+            "displayYear": "Making of the lakes and rivers",
+            "label": ""
+        },
+        {
+            "year": -12000,
+            "displayYear": "Ancient Dakota",
+            "label": ""
+        },
+        {
+            "year": -10000,
+            "displayYear": "14,000 - 10,500 years ago",
+            "label": "Archaeologists believe that the people in this area lived a fairly mobile lifestyle and depended on hunting large animals. This is based on the fact that the primary material remains from this period are large spear-type stone projectiles, and very few campsites. However, archaeologists are constrained by what materials are most likely to preserve."
+        },
+        {
+            "year": -8000,
+            "displayYear": "10,500 – 2,500 years ago",
+            "label": "During this time the people continued to live on the land and hunt, and were perhaps less mobile as archaeologists have found more sites of longer-term occupation during this period. The environment changed substantially during this time, however, with the climate cooling and upland areas increasingly forested where they had earlier been prairie. During this time the people also began to use copper tools, with most copper coming from the Lake Superior area."
+        },
+        {
+            "year": 0,
+            "displayYear": "2,500 - 1000 years ago",
+            "label": "During this time the people began to make pottery, cultivate plant foods, and build earthen burial mounds. Their villages became larger, with more people, and they were less far-travelling, spending more time in their villages. But they also participated in far-ranging trade networks, bringing in some materials from distant places."
+        },
+        {
+            "year": 1000,
+            "displayYear": "1,000 – 450 years ago",
+            "label": "Communities grew larger and larger, growing more maize for subsistence and participating in the thriving trade networks of the Native world. Some archaeologists think that this trade network included people connected to the great city at Cahokia, and the spread of its influence across a wide area."
+        },
+        {
+            "year": 1650,
+            "displayYear": "~ 1650 CE",
+            "label": "French missionaries and traders began finding their way into the area, meeting Dakota people and bringing things to trade with, including early firearms, cloth, glass beads, and brass utensils. The visiting French men observed that Dakota people had villages throughout the low lakes and marshes around the Mississippi and Minnesota Rivers, hunting and harvesting wild rice. There may have been a Mendota village right at the bdote during this period. These visitors also wrote of both alliances and conflicts between Dakota and Ojibwe people in the area. Increasing numbers of Ojibwe were coming to this area, partly pushed by European colonization to the east."
         },
         {
             "year": 1804,
-            "displayYear": "1804 – 1805",
+            "displayYear": "1804 – 1805 CE",
             "label": "During the exploration of the Lousiana Territory Meriwether Lewis and William Clark recommended the establishment of military fortifications at critical Missouri and Mississippi River junctures to maintain peace and protect trade with the Native Americans. Among the sites recommended was St. Anthony Falls."
         },
         {
             "year": 1805,
-            "displayYear": "1805",
-            "label": "Lieutenant Zebulon Pike negotiated a treaty with the Dakota tribe granting the U.S. government 100 000 acres at the confluence of the Mississippi and St. Peters (Minnesota) Rivers."
+            "displayYear": "1805 CE",
+            "label": "Lieutenant Zebulon Pike negotiated a treaty with the some Dakota tribes granting the U.S. government 100 000 acres at the confluence of the Mississippi and St. Peters (Minnesota) Rivers. The treaty was not signed by all Dakota leaders, nor was it ever ratified by Congress."
         },
         {
             "year": 1819,
-            "displayYear": "1819",
+            "displayYear": "1819 CE",
             "label": "Lieutenant Colonel Henry Leavenworth and the Fifth Regiment ascended the Mississippi River to the St. Peter's junction where they constructed a temporary camp in which the men spent an illness-ridden winter."
         },
         {
             "year": 1820,
-            "displayYear": "1820",
+            "displayYear": "1820 CE",
             "label": "Fearing spring floods and more disease Lt. Colonel Leavenworth moved his troops to high ground near a spring a mile up the west bank of the Mississippi River - this became Camp Coldwater. During the summer Colonel Josiah Snelling became the new commander of the regiment. Under his energetic directrion a new stone fort was constructed atop the bluff on the west bank of the confluence of the St. Peters and Mississippi Rivers. The new post was given the name Fort St. Anthony the following year."
         },
         {
             "year": 1824,
-            "displayYear": "1824",
+            "displayYear": "1824 CE",
             "label": "Major General Winfield Scott inspected the completed limestone post recommending that it be renamed 'Fort Snelling' In honor of its resourceful commandant."
         },
         {
+            "year": 1837,
+            "displayYear": "1837 CE",
+            "label": "Treaties signed with Ojibwe, Ho-Chunk, and Dakota leaders ceded all land east of the Mississippi River to the US."
+        },
+        {
             "year": 1840,
-            "displayYear": "1840",
+            "displayYear": "1840 CE",
             "label": "Major Plympton leveled the cabins of the squatters who resisted moving off the government-owned land surrounding the post thereby forcing them to form the new community downriver that became St. Paul."
         },
         {
             "year": 1841,
-            "displayYear": "1841",
+            "displayYear": "1841 CE",
             "label": "Captain Seth Eastman - nationally famous painter of Indians and frontier scenes who was breveted brigadier general for his Civil War service - began the first of his four stints as commandant of Fort Snelling."
         },
         {
             "year": 1849,
-            "displayYear": "1849",
+            "displayYear": "1849 CE",
             "label": "The Minnesota Territory was formed with Saint Paul as its political center. As the western frontier became ever more remote Fort Snelling became more of a tourist attraction than a military necessity."
         },
         {
             "year": 1851,
-            "displayYear": "1851",
-            "label": "Treaties signed with the Sioux opened much of southern Minnesota to settlement sparking the first substantial immigration into the Minnesota Territory."
+            "displayYear": "1851 CE",
+            "label": "The treaty of Traverse des Sioux, signed with Dakota bands, opened much of southern Minnesota to settlement sparking the first substantial immigration into the Minnesota Territory."
         },
         {
             "year": 1858,
-            "displayYear": "1858",
+            "displayYear": "1858 CE",
             "label": "Minnesota became a state. Fort Snelling and eight thousand surrounding acres were sold under dubious circumstances to Franklin Steele a former sutler for $90,000. Following the sale the fort was abandoned by the military and was primarily used to pen sheep."
         },
         {
             "year": 1861,
-            "displayYear": "1861",
+            "displayYear": "1861 CE",
             "label": "Civil War broke out and Governor Ramsey designated Fort Snelling as the official rendezvous point for the First Minnesota Infantry Regiment. Fort Snelling expanded five times in size by addition of barracks and storehouses outside the old walls which allowed it to serve as an induction-discharge and training center for Minnesota soldiers until the last troops were mustered out in 1866."
         },
         {
             "year": 1862,
-            "displayYear": "1862",
+            "displayYear": "1862 CE",
             "label": "General Henry H. Sibley led fort soldiers up the Minnesota River Valley where they quickly quelled the unorganized Sioux who participated in the desperate and short-lived Sioux Uprising."
         },
         {
             "year": 1863,
-            "displayYear": "1862 - 1863",
+            "displayYear": "1862 - 1863 CE",
             "label": "Uncondemned Sioux men, women, and children were imprisoned in a stockade on the river bottom below the fort before they were removed by military guard to a barren Dakota reservation."
         },
         {
+            "year": 1865,
+            "displayYear": "1865 CE",
+            "label": "Sakpedan and Wakanozanzan were executed at Fort Snelling for their participation in the war."
+        },
+        {
+            "year": 1884,
+            "displayYear": "1882 – 1888 CE",
+            "label": "Several units of the 25th Infantry, one of the first Black Regular segregated regiments (peacetime enlistment) in the US Army, were stationed at Fort Snelling."
+        },
+        {
             "year": 1903,
-            "displayYear": "1903 - 1907",
+            "displayYear": "1903 - 1907 CE",
             "label": "New barracks, officers quarters, stables, warehouses, artillery sheds, and workshops were constructed. The enlarged post was now at its fullest development."
         },
         {
             "year": 1917,
-            "displayYear": "1917 - 1918",
+            "displayYear": "1917 - 1918 CE",
             "label": "World War 1 troops inducted and trained at the fort."
         },
         {
             "year": 1940,
-            "displayYear": "1940",
+            "displayYear": "1940 CE",
             "label": "The Selective Service Act led to the opening of a Recruiting and Induction Station and a Reception Center. Over 600,000 soldiers were processed here during the Second World War."
         },
         {
             "year": 1944,
-            "displayYear": "1944",
+            "displayYear": "1944 CE",
             "label": "A Military Intelligence Service Language School was established at the post. Over 6,000 linguists mostly Nisei (Japanese-American) graduated."
         },
         {
             "year": 1946,
-            "displayYear": "1946",
+            "displayYear": "1946 CE",
             "label": "Fort Snelling retired permanently as a military post and transferred to the Veteran's Administration."
         },
         {
             "year": 1960,
-            "displayYear": "1960",
+            "displayYear": "1960 CE",
             "label": "Fort Snelling declared a national historic landmark."
         },
         {
             "year": 1961,
-            "displayYear": "1961",
+            "displayYear": "1961 CE",
             "label": "Minnesota legislature established Fort Snelling State Park creating a 2,500-acre public recreation area around the fort site."
         },
         {

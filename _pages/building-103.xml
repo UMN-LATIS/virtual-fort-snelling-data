@@ -34,18 +34,20 @@
     >
 		<timeline-button
 			year="1888"
-			title="1888"
+			title="1888 CE"
 			description="Construction completed."
 			action-0="history:set-year"
 			action-0-argument-0="1888"
+			action-0-argument-1="1888 CE"
 		/>
 
 		<timeline-button
 			year="1944"
-			title="1944"
+			title="1944 CE"
 			description="Military Intelligence Service Language School established."
 			action-0="history:set-year"
 			action-0-argument-0="1944"
+			action-0-argument-1="1944 CE"
 		/>
 	</timeline>
 

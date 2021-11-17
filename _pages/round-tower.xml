@@ -34,34 +34,38 @@
     >
         <timeline-button
             year="1820"
-            title="1820"
+            title="1820 CE"
             description="Construction completed."
             action-0="history:set-year"
             action-0-argument-0="1820"
+            action-0-argument-1="1820 CE"
         />
 
         <timeline-button
             year="1861"
-            title="1861"
+            title="1861 CE"
             description="Tin roof added."
             action-0="history:set-year"
             action-0-argument-0="1861"
+            action-0-argument-1="1861 CE"
         />
 
         <timeline-button
             year="1869"
-            title="1869"
+            title="1869 CE"
             description="Remodeled and merlons added."
             action-0="history:set-year"
             action-0-argument-0="1869"
+            action-0-argument-1="1869 CE"
         />
 
         <timeline-button
             year="1966"
-            title="1966"
+            title="1966 CE"
             description="Restored to original appearance."
             action-0="history:set-year"
             action-0-argument-0="1966"
+            action-0-argument-1="1966 CE"
         />
     </timeline>
 

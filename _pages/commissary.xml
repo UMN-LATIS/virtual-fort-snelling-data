@@ -34,26 +34,29 @@
     >
 		<timeline-button
 			year="1824"
-			title="1824"
+			title="1824 CE"
 			description="Construction completed."
 			action-0="history:set-year"
 			action-0-argument-0="1824"
+			action-0-argument-1="1824 CE"
 		/>
 
 		<timeline-button
 			year="1896"
-			title="1896"
+			title="1896 CE"
 			description="Demolished."
 			action-0="history:set-year"
 			action-0-argument-0="1896"
+			action-0-argument-1="1896 CE"
 		/>
 
 		<timeline-button
 			year="1966"
-			title="1966"
+			title="1966 CE"
 			description="Rebuilt to original appearance."
 			action-0="history:set-year"
 			action-0-argument-0="1966"
+			action-0-argument-1="1966 CE"
 		/>
 	</timeline>
 </page>

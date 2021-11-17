@@ -9,23 +9,6 @@
 	
 	<title>Guided Tours</title>
 
-	<!-- <button
-        title="Sakpedan, Wakanozanzan, and Pryor"
-		description=""
-        action-0="menu:next-page"
-        action-0-argument-0="tour-prison"
-		action-1="history:set-year"
-		action-1-argument-0="1865"
-		action-2="player:set-mode"
-		action-2-argument-0="overview"
-		action-3="player:teleport"
-		action-3-argument-0="91.1856"
-		action-3-argument-1="30.94523"
-		action-3-argument-2="253.2893"
-		action-3-argument-3="0.06205099"
-		action-3-argument-4="0.3380027"
-		action-3-argument-5="0.38760627"
-    /> -->
 	<button
         title="The US-Dakota War of 1862 and its Legacies"
 		description=""

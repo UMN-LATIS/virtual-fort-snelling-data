@@ -34,26 +34,29 @@
     >
 		<timeline-button
 			year="1820"
-			title="1820"
+			title="1820 CE"
 			description="Construction completed."
 			action-0="history:set-year"
 			action-0-argument-0="1820"
+			action-0-argument-1="1820 CE"
 		/>
 
 		<timeline-button
 			year="1839"
-			title="1839"
+			title="1839 CE"
 			description="Moved to round tower roof."
 			action-0="history:set-year"
 			action-0-argument-0="1839"
+			action-0-argument-1="1839 CE"
 		/>
 
 		<timeline-button
 			year="1861"
-			title="1861"
+			title="1861 CE"
 			description="Moved back to parade grounds."
 			action-0="history:set-year"
 			action-0-argument-0="1861"
+			action-0-argument-1="1861 CE"
 		/>
 	</timeline>
 </page>

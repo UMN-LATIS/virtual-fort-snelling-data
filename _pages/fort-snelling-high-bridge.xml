@@ -34,18 +34,20 @@
     >
 		<timeline-button
 			year="1880"
-			title="1880"
+			title="1880 CE"
 			description="Construction completed."
 			action-0="history:set-year"
 			action-0-argument-0="1880"
+			action-0-argument-1="1880 CE"
 		/>
 
 		<timeline-button
 			year="1908"
-			title="1908"
+			title="1908 CE"
 			description="Replaced by hte Fort Snelling Bridge."
 			action-0="history:set-year"
 			action-0-argument-0="1908"
+			action-0-argument-1="1908 CE"
 		/>
 	</timeline>
 </page>
