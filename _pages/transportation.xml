@@ -9,6 +9,32 @@
     
     <title>Transportation</title>
 
+    <button
+        title="Railroads"
+        action-0="menu:next-page"
+        action-0-argument-0="railroads"
+    />
+
+    <button
+        title="Steamboats"
+        action-0="menu:next-page"
+        action-0-argument-0="steamboats"
+    />
+
+    <subtitle>Ferries</subtitle>
+
+    <button
+        title="Minnesota River Ferry"
+        action-0="menu:next-page"
+        action-0-argument-0="minnesota-river-ferry"
+    />
+
+    <button
+        title="Mississippi River Ferry"
+        action-0="menu:next-page"
+        action-0-argument-0="mississippi-river-ferry"
+    />
+
     <subtitle>Bridges</subtitle>
 
     <button
@@ -33,20 +59,6 @@
         title="Mendota Bridge"
         action-0="menu:next-page"
         action-0-argument-0="mendota-bridge"
-    />
-
-    <subtitle>Ferries</subtitle>
-
-    <button
-        title="Minnesota River Ferry"
-        action-0="menu:next-page"
-        action-0-argument-0="minnesota-river-ferry"
-    />
-
-    <button
-        title="Mississippi River Ferry"
-        action-0="menu:next-page"
-        action-0-argument-0="mississippi-river-ferry"
     />
 
     <!-- <subtitle>Roads</subtitle> -->

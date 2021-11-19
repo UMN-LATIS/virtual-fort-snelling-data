@@ -1,0 +1,59 @@
+---
+# empty front matter to force jekyll processing
+---
+<page>
+	<!--
+		NOTE: this file is referenced when a user clicks on the
+		corresponding mesh in application, so DO NOT rename it.
+	-->
+	
+	<icon-button
+		action-0="menu:previous-page"
+		src="/assets/icons/icon_arrow_left.png"
+	/>
+	
+	<title>Steamboats</title>
+
+	<timeline
+        title="Timeline"
+        description=""
+        collapsible="true"
+    >
+		<timeline-button
+			year="1830"
+			title="~1830 CE"
+			description="Steamboats surge in popularity along the Mississippi River."
+			action-0="history:set-year"
+			action-0-argument-0="1830"
+			action-0-argument-1="~1830 CE"
+		/>
+
+		<timeline-button
+			year="1930"
+			title="~1930 CE"
+			description="Steamboat usage falls sharply followin the great depression."
+			action-0="history:set-year"
+			action-0-argument-0="1930"
+			action-0-argument-1="~1930 CE"
+		/>
+	</timeline>
+
+    <body>
+        In 1850 the steamboat Yankee proved that the Minnesota River was navigable for large steamships by setting a record distance travelling upstream from Fort Snelling.
+    </body>
+
+    <body>
+        In 1847 the Boston Atlas published a statement claiming that the Minnesota River could be navigable for at least 150 miles above its mouth at Fort Snelling. This spurred riverboat captains to push their steamboats further and further up the river, gaining bragging rights and posting signs along the river to mark the furthest point of their travels.
+    </body>
+
+    <body>
+        On July 22, 1850, Capt. Martin K. Harris, along with a number of vacationers, left St. Paul on his ship “Yankee” determined to set a record. After several days of travel they passed the points reached by other ships, eventually reaching a point above present-day Judson in Blue Earth County, MN. Here he decided to turn back "since the warm weather and swarms of mosquitoes were proving too much for the adventurous excursionists."
+    </body>
+
+    <image
+        src="/assets/steamboats/itasca_war_eagle.jpg"
+        title="MNHS Collections"
+        description="Steamboats Itasca and War Eagle at St. Paul levee, 1859"
+    />
+
+</page>
