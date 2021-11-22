@@ -44,7 +44,7 @@
 		<timeline-button
 			year="1908"
 			title="1908 CE"
-			description="Replaced by hte Fort Snelling Bridge."
+			description="Replaced by the Fort Snelling Bridge."
 			action-0="history:set-year"
 			action-0-argument-0="1908"
 			action-0-argument-1="1908 CE"
