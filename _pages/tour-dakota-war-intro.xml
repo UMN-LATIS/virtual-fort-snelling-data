@@ -29,13 +29,13 @@
         title="3/4"
         description="Sakpedan, Wakanozanzan, and ongoing Dakhota Persecution"
         action-0="menu:next-page"
-        action-0-argument-0="tour-dakota-war-0"
+        action-0-argument-0="tour-dakota-war-2"
     />
 
     <button
         title="4/4"
         description="Dakhota Omniciye – Truth-telling Today"
         action-0="menu:next-page"
-        action-0-argument-0="tour-dakota-war-0"
+        action-0-argument-0="tour-dakota-war-3"
     />
 </page>
